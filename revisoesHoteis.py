@@ -7,8 +7,8 @@ app.title("Wall-e Society - Revisões de Hotéis")
 app.geometry("500x500")
 
 # etiqueta
-city_label = Label(app, text='Revisões de Hotéis')
-city_label.place(x=200,y=50)
+city_label = Label(app, text='----Revisões de Hotéis----')
+city_label.place(x=180,y=50)
 
 # cidade
 city_label = Label(app, text='Cidade')
@@ -24,11 +24,6 @@ combo_city.current(0)
 # def getCity():
 #     combo_city.get()
 #     test.set("Cidade: "+combo_city.get())
-
-# botão de confirmar seleção (Mudar método para todos os parâmetros)
-# confirm_button = Button(app,command=getCity,text='Confirmar')
-confirm_button = Button(app,text='Confirmar')
-confirm_button.place(x=50,y=400)
 
 # testar seleção do combobox
 # test = StringVar()
@@ -79,5 +74,20 @@ combo_period = ttk.Combobox(app)
 combo_period.place(x=160,y=220)
 combo_period['values'] = ('Dez-Fev','Mar-Mai','Jun-Ago', 'Set-Nov', 'Dez-Fev')
 combo_period.current(0)
+
+# ------
+
+# resultado
+result_predict = IntVar()
+result_predict_label = Label(app,text='Predição')
+result_predict_label.place(x=300,y=390)
+
+result_predict_entry = Entry(app, textvariable=result_predict)
+result_predict_entry.place(x=300,y=410)
+
+# botão de confirmar seleção (Mudar método para todos os parâmetros)
+# confirm_button = Button(app,command=getCity,text='Confirmar')
+confirm_button = Button(app,text='Confirmar')
+confirm_button.place(x=50,y=400)
 
 app.mainloop()
