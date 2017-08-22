@@ -9,7 +9,6 @@ class Parser:
     PERIOD = 4
     CATEGORIES = ['Casais', 'Família', 'Amigos', 'Negócios', 'Sozinho']
 
-
     def __init__(self, path, separator=','):
 
         self._multi_label = MultiLabelBinarizer()
@@ -107,7 +106,7 @@ class Parser:
         binary = self._multi_label.transform([{columns[idx]}]).flatten()
         columns.pop(idx)
         for i, value in enumerate(binary):
-            columns.insert(idx+i, value)
+            columns.insert(idx + i, value)
 
         return columns
 
@@ -117,7 +116,7 @@ class Parser:
         The default separator is ','
         """
 
-        return line.replace('\n','').split(self.separator)
+        return line.replace('\n', '').split(self.separator)
 
     def _transform_in_int_(self, columns):
         for i, field in enumerate(columns):
@@ -130,20 +129,20 @@ class DateConvert:
 
     @classmethod
     def shortmonth_to_int(cls, month):
-        month=month.lower()
+        month = month.lower()
         return ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set',
                 'out', 'nov', 'dez'].index(month)
 
     @classmethod
     def month_to_int(cls, month):
-        month=month.lower()
+        month = month.lower()
         return ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
                 'julho', 'agosto', 'setembro', 'outubro', 'novembro',
                 'dezembro'].index(month)
 
     @classmethod
     def weekday_to_int(cls, weekday):
-        weekday=weekday.lower()
+        weekday = weekday.lower()
         return ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
                 'quinta-feira', 'sexta-feira', 'sábado'].index(weekday)
 
@@ -167,6 +166,7 @@ def mostra_tabela(lista_registros):
         for campo in registro:
             print(campo)
 
+
 if __name__ == '__main__':
     print(Parser('AM_RevisoesHoteisCaldas.csv').get_data())
 
@@ -180,17 +180,12 @@ if __name__ == '__main__':
 #         registro = reader.split(',')
 #         if(len(registro) == colunas):
 #             lista_registros.append(registro)
-# Ative os 4 se quiser ver um registro só #################
-# i = input("Digite o numero do registro: ")
-# assert(i >= 0 and "O numero tem que ser maior que 0")
-# mostra_registro(lista_registros[i])
-# pause()
-# mostra_tabela(lista_registros)
+
 
 # import pandas as pd
 # def le_arquivo():
 #     dataset = pd.read_csv('AM_RevisoesHoteisCaldas.csv')
 #     x = dataset.iloc[:, :-1].values
 #     y = dataset.iloc[:, -1].values
-#     
+#
 #     print(x)
