@@ -1,10 +1,12 @@
-# -*- coding: utf-8 -*-
-from Tkinter import *
-import ttk
+#!/usr/bin/python3
+
+from tkinter import *
+from tkinter import ttk
+import random
 
 # obter resultado real
 def get_evaluation():
-	return 5
+	return random.randint(1, 5)
 
 
 x_label = 100

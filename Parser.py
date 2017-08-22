@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/usr/bin/python3
+
 def pause():
     programPause = raw_input("Press the <ENTER> key to continue...")
 
