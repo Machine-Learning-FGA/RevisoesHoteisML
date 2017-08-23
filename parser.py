@@ -60,7 +60,8 @@ class Parser:
             self._switch_categories_(columns)
             self._transform_in_int_(columns)
         else:
-            raise Exception()
+            print(self.number_columns, len(columns))
+            # raise Exception()
 
         return columns
 
@@ -99,6 +100,7 @@ class Parser:
         """
         idx = -1
         for category in self.CATEGORIES:
+        return line.split(',')
             if category in columns:
                 idx = columns.index(category)
                 break
