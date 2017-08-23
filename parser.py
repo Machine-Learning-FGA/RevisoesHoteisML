@@ -146,3 +146,11 @@ def mostra_tabela(lista_registros):
 # mostra_registro(lista_registros[i])
 # pause()
 # mostra_tabela(lista_registros)
+
+import pandas as pd
+def le_arquivo():
+    dataset = pd.read_csv('AM_RevisoesHoteisCaldas.csv')
+    x = dataset.iloc[:, :-1].values
+    y = dataset.iloc[:, -1].values
+    
+    print(x)
