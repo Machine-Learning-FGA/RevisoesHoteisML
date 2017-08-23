@@ -3,6 +3,9 @@ import os
 
 class Parser:
 
+    WEEKDAY = 17
+    MONTH = 16
+
     def __init__(self, path):
 
         if os.path.exists(path):
@@ -29,7 +32,9 @@ class Parser:
         and do some processament in each line"""
 
         data = []
-        for line in self._read_lines_():
+        lines = self._read_lines_()
+        next(lines)
+        for line in lines:
             columns = self._separate_coluns_(line)
             data_array = self._process_data_(columns)
             data.append(data_array)
@@ -37,14 +42,23 @@ class Parser:
         return data
 
     def _process_data_(self, columns):
+        """Transform brute data into a useful data"""
         if self.number_columns == len(columns):
             self._convert_yesno_(columns)
             self._convert_weekday_(columns)
+            self._convert_month_(columns)
             self._split_period_(columns)
+            self._switch_categories_(columns)
         else:
             raise Exception()
 
+        return columns
+
     def _convert_yesno_(self, columns):
+        """Simple parser to
+        YES - 1
+        NO - 0
+        """
         for i, field in enumerate(columns):
             if field == 'SIM':
                 columns[i] = 1
@@ -56,6 +70,20 @@ class Parser:
         columns[self.WEEKDAY] = DateConvert.weekday_to_int(columns[self.WEEKDAY])
         return columns
 
+    def _convert_month_(self, columns):
+        columns[self.MONTH] = DateConvert.month_to_int(columns[self.MONTH])
+        return columns
+
+    def _split_period_(self, columns):
+        # TODO: split periods from ShortMont-ShortMont to
+        # two columns with number of each month 1,0
+        pass
+
+    def _switch_categories_(self, columns):
+        # TODO: convert the Negócios, Casais... categories into thruth table
+        # or numbers
+        pass
+
     def _separate_coluns_(self, line):
         return line.split(';')
 
@@ -64,19 +92,22 @@ class DateConvert:
 
     @classmethod
     def shortmonth_to_int(cls, month):
-        return ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set',
-                'Out', 'Nov', 'Dez'].index(month)
+        month=month.lower()
+        return ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set',
+                'out', 'nov', 'dez'].index(month)
 
     @classmethod
     def month_to_int(cls, month):
-        return ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
-                'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro',
-                'Dezembro'].index(month)
+        month=month.lower()
+        return ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
+                'julho', 'agosto', 'setembro', 'outubro', 'novembro',
+                'dezembro'].index(month)
 
     @classmethod
     def weekday_to_int(cls, weekday):
-        return ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira',
-                'Quinta-feira', 'Sexta-feira', 'Sábado'].index(weekday)
+        weekday=weekday.lower()
+        return ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
+                'quinta-feira', 'sexta-feira', 'sábado'].index(weekday)
 
 
 def pause():
