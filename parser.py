@@ -2,17 +2,46 @@ import os
 from sklearn.preprocessing import MultiLabelBinarizer
 
 
+def flatten(array):
+    res = []
+
+    def loop(sub_array):
+        for i in sub_array:
+            if isinstance(i, list):
+                loop(i)
+            else:
+                res.append(i)
+    loop(array)
+    return res
+
+
 class Parser:
 
-    WEEKDAY = 17
-    MONTH = 16
-    PERIOD = 4
+    WEEKDAY_COLUMN = 17
+    MONTH_COLUMN = 16
+    PERIOD_COLUMN = 4
     CATEGORIES = ['Casais', 'Família', 'Amigos', 'Negócios', 'Sozinho']
+
+    SHORT_MONTHS = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul',
+                    'ago', 'set', 'out', 'nov', 'dez']
+    MONTHS = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
+              'julho', 'agosto', 'setembro', 'outubro', 'novembro',
+              'dezembro']
+    WEEKDAY = ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
+               'quinta-feira', 'sexta-feira', 'sábado']
 
     def __init__(self, path, separator=','):
 
         self._multi_label = MultiLabelBinarizer()
-        self._multi_label.fit([set([x]) for x in self.CATEGORIES])
+        self._short_month = MultiLabelBinarizer()
+        self._months = MultiLabelBinarizer()
+        self._weekday = MultiLabelBinarizer()
+
+        self._multi_label.fit(self._get_categories_(self.CATEGORIES))
+        self._short_month.fit(self._get_categories_(self.SHORT_MONTHS))
+        self._months.fit(self._get_categories_(self.MONTHS))
+        self._weekday.fit(self._get_categories_(self.WEEKDAY))
+
         if os.path.exists(path):
             self.path = path
             self.header = next(self._read_lines_()).split(',')
@@ -21,6 +50,9 @@ class Parser:
 
         else:
             raise OSError('file not found')
+
+    def _get_categories_(self, categories):
+        return [set([x]) for x in categories]
 
     def _read_lines_(self):
         """ Read each line from file and return when
@@ -44,7 +76,8 @@ class Parser:
         for line in lines:
             columns = self._separate_coluns_(line)
             data_array, data_label = self._process_data_(columns)
-            data.append(data_array)
+            flatten_data = flatten(data_array)
+            data.append(flatten_data)
             label.append(data_label)
 
         return data, label
@@ -60,7 +93,7 @@ class Parser:
             self._convert_month_(columns)
             self._split_period_(columns)
             self._switch_categories_(columns)
-            self._transform_in_int_(columns)
+            columns = self._transform_in_int_(columns)
         else:
             print(self._number_columns, len(columns))
             # raise Exception()
@@ -81,20 +114,27 @@ class Parser:
         return columns
 
     def _convert_weekday_(self, columns):
-        columns[self.WEEKDAY] = DateConvert.weekday_to_int(columns[self.WEEKDAY])
+        weekday = columns[self.WEEKDAY_COLUMN].lower()
+        columns[self.WEEKDAY_COLUMN] = self._transform_table_(self._weekday, weekday)
         return columns
 
+    def _transform_table_(self, multi_label, value):
+        label = multi_label.transform([{value}])
+        label_list = list(label.flatten())
+        return label_list
+
     def _convert_month_(self, columns):
-        columns[self.MONTH] = DateConvert.month_to_int(columns[self.MONTH])
+        month = columns[self.MONTH_COLUMN].lower()
+        columns[self.MONTH_COLUMN] = self._transform_table_(self._months, month)
         return columns
 
     def _split_period_(self, columns):
         """Tranform a columns in format ShortMonth - ShortMonth into
         int month, int month
         """
-        periods = columns[4].split('-')
-        columns[4] = DateConvert.shortmonth_to_int(periods[0])
-        columns.insert(4, DateConvert.shortmonth_to_int(periods[1]))
+        periods = columns[self.PERIOD_COLUMN].split('-')
+        columns[self.PERIOD_COLUMN] = self._transform_table_(self._short_month, periods[0].lower())
+        columns.insert(self.PERIOD_COLUMN, self._transform_table_(self._short_month, periods[1].lower()))
         return columns
 
     def _switch_categories_(self, columns):
@@ -108,9 +148,7 @@ class Parser:
                 break
 
         binary = self._multi_label.transform([{columns[idx]}]).flatten()
-        columns.pop(idx)
-        for i, value in enumerate(binary):
-            columns.insert(idx + i, value)
+        columns[idx] = list(binary)
 
         return columns
 
@@ -126,6 +164,7 @@ class Parser:
         for i, field in enumerate(columns):
             if isinstance(field, str) and field.isdigit():
                 columns[i] = int(field)
+        columns = list(filter(lambda x: not isinstance(x, str), columns))
         return columns
 
 
@@ -172,7 +211,7 @@ def mostra_tabela(lista_registros):
 
 
 if __name__ == '__main__':
-    print(Parser('AM_RevisoesHoteisCaldas.csv').get_data())
+    print(Parser('AM_RevisoesHoteisCaldas.csv').get_data()[0][0])
 
 # with open('AM_RevisoesHoteisCaldas.csv', 'r') as f:
 #     reader = f.readline()
