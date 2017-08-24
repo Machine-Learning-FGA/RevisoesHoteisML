@@ -2,7 +2,7 @@ import os
 from sklearn.preprocessing import MultiLabelBinarizer
 
 
-def flatten(array):
+def _flatten(array):
     res = []
 
     def loop(sub_array):
@@ -20,6 +20,7 @@ class Parser:
     WEEKDAY_COLUMN = 17
     MONTH_COLUMN = 16
     PERIOD_COLUMN = 4
+    STAR_COLUMN = 13
     CATEGORIES = ['Casais', 'Família', 'Amigos', 'Negócios', 'Sozinho']
 
     SHORT_MONTHS = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul',
@@ -30,7 +31,7 @@ class Parser:
     WEEKDAY = ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
                'quinta-feira', 'sexta-feira', 'sábado']
 
-    def __init__(self, path, separator=','):
+    def __init__(self, path, separator=';'):
 
         self._multi_label = MultiLabelBinarizer()
         self._short_month = MultiLabelBinarizer()
@@ -44,7 +45,7 @@ class Parser:
 
         if os.path.exists(path):
             self.path = path
-            self.header = next(self._read_lines_()).split(',')
+            self.header = next(self._read_lines_()).split(separator)
             self._number_columns = len(self.header)
             self.separator = separator
 
@@ -58,7 +59,7 @@ class Parser:
         """ Read each line from file and return when
         called by a iterator
         """
-        with open(self.path, 'r') as data_file:
+        with open(self.path, 'r', encoding='latin-1') as data_file:
             while True:
                 line = data_file.readline()
                 if not line:
@@ -76,7 +77,7 @@ class Parser:
         for line in lines:
             columns = self._separate_coluns_(line)
             data_array, data_label = self._process_data_(columns)
-            flatten_data = flatten(data_array)
+            flatten_data = _flatten(data_array)
             data.append(flatten_data)
             label.append(data_label)
 
@@ -89,6 +90,7 @@ class Parser:
         """Transform brute data into a useful data"""
         if self._number_columns == len(columns):
             self._convert_yesno_(columns)
+            self._floor_star_hotel_(columns)
             self._convert_weekday_(columns)
             self._convert_month_(columns)
             self._split_period_(columns)
@@ -111,6 +113,10 @@ class Parser:
                 columns[i] = 1
             elif field == 'NÃO' or field == 'NAO':
                 columns[i] = 0
+        return columns
+
+    def _floor_star_hotel_(self, columns):
+        columns[self.STAR_COLUMN] = int(columns[self.STAR_COLUMN][0])
         return columns
 
     def _convert_weekday_(self, columns):
@@ -167,47 +173,6 @@ class Parser:
         columns = list(filter(lambda x: not isinstance(x, str), columns))
         return columns
 
-
-class DateConvert:
-
-    @classmethod
-    def shortmonth_to_int(cls, month):
-        month = month.lower()
-        return ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set',
-                'out', 'nov', 'dez'].index(month)
-
-    @classmethod
-    def month_to_int(cls, month):
-        month = month.lower()
-        return ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
-                'julho', 'agosto', 'setembro', 'outubro', 'novembro',
-                'dezembro'].index(month)
-
-    @classmethod
-    def weekday_to_int(cls, weekday):
-        weekday = weekday.lower()
-        return ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
-                'quinta-feira', 'sexta-feira', 'sábado'].index(weekday)
-
-
-def pause():
-    raw_input("Press the <ENTER> key to continue...")
-
-
-def mostra_registro(registro):
-    for campo in registro:
-        print(campo)
-
-
-def mostra_campos(lista_campos):
-    for campo in lista_campos:
-        print(campo)
-
-
-def mostra_tabela(lista_registros):
-    for registro in lista_registros:
-        for campo in registro:
-            print(campo)
 
 
 if __name__ == '__main__':

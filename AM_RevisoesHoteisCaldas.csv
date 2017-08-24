@@ -1,505 +1,505 @@
-Cidade,# Revis√µes,# Revis√µes de Hotel,# Votos √öteis,Per√≠odo,Tipo,Animadores,Academia,Quadra de Tenis,Spa,Piscina,Wifi Free,Nome do Hotel,# Estrelas,Qtde Quartos,# Anos como membro,M√™s da Revis√£o,Dia da Revis√£o,Pontua√ß√£o
-Goi√¢nia,11,4,13,Dez-Fev,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,9,Janeiro,Quinta-Feira,5
-Goi√¢nia,119,21,75,Dez-Fev,Neg√≥cios,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,3,Janeiro,Sexta-Feira,3
-Goi√¢nia,36,9,25,Mar-Mai,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,2,Fevereiro,S√°bado,5
-Bras√≠lia,14,7,14,Mar-Mai,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,6,Fevereiro,Sexta-Feira,4
-Uberl√¢ndia,5,5,2,Mar-Mai,Sozinho,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,7,Mar√ßo,Ter√ßa-feira,4
-Uberl√¢ndia,31,8,27,Mar-Mai,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,2,Mar√ßo,Ter√ßa-feira,3
-Bras√≠lia,45,12,46,Mar-Mai,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,4,Abril,Sexta-Feira,4
-Goi√¢nia,2,1,4,Mar-Mai,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,0,Abril,Ter√ßa-feira,4
-S√£o Paulo,24,3,8,Mar-Mai,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,3,Maio,S√°bado,4
-Uberl√¢ndia,12,7,11,Mar-Mai,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,5,Maio,Ter√ßa-feira,3
-Goi√¢nia,102,24,58,Jun-Ago,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,9,Junho,Sexta-Feira,2
-Uberaba,20,9,24,Jun-Ago,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,4,Junho,S√°bado,3
-Goi√¢nia,7,6,9,Jun-Ago,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,1,Julho,Quarta-feira,2
-Goi√¢nia,22,5,13,Jun-Ago,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,1,Julho,Quinta-Feira,3
-Bras√≠lia,3,3,0,Jun-Ago,Amigos,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,1,Agosto,Domingo,3
-Cuiab√°,146,17,33,Jun-Ago,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,2,Agosto,S√°bado,4
-Uberl√¢ndia,8,8,9,Set-Nov,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,4,Setembro,Quarta-feira,1
-Goi√¢nia,9,3,1,Set-Nov,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,2,Setembro,S√°bado,4
-Uberl√¢ndia,41,9,19,Set-Nov,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,2,Outubro,Ter√ßa-feira,3
-Goi√¢nia,8,7,26,Set-Nov,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,10,Outubro,Segunda-feira,2
-Bras√≠lia,10,5,2,Set-Nov,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,7,Novembro,S√°bado,4
-Cuiab√°,4,3,3,Set-Nov,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,3,Novembro,Segunda-feira,1
-Bras√≠lia,18,7,19,Dez-Fev,Fam√≠lia,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,0,Dezembro,S√°bado,4
-Goi√¢nia,4,4,3,Dez-Fev,Casais,N√ÉO,SIM,N√ÉO,N√ÉO,SIM,SIM,Hotel Morada das √Åguas,3,38,5,Dezembro,Domingo,2
-Ribeir√£o Preto,29,11,15,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,3,Janeiro,Segunda-feira,4
-Goi√¢nia,114,42,52,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,11,Janeiro,S√°bado,4
-Uberl√¢ndia,30,12,17,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,8,Fevereiro,Sexta-Feira,5
-Bras√≠lia,87,18,36,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,3,Fevereiro,Quinta-Feira,3
-Goi√¢nia,26,10,28,Mar-Mai,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,1,Mar√ßo,Quarta-feira,5
-Ribeir√£o Preto,8,7,9,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,8,Mar√ßo,Quarta-feira,5
-Uberl√¢ndia,11,8,13,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,7,Abril,Sexta-Feira,5
-Uberaba,4,3,2,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,0,Abril,Sexta-Feira,3
-Uberl√¢ndia,56,8,7,Mar-Mai,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,1,Maio,Ter√ßa-feira,3
-Campo Grande,13,12,8,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,4,Maio,Quarta-feira,3
-Uberaba,58,9,15,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,0,Junho,S√°bado,4
-Cristalina,20,7,4,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,6,Junho,S√°bado,3
-Goi√¢nia,70,27,24,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,6,Julho,Sexta-Feira,4
-Londrina,6,3,7,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,1,Julho,Quinta-Feira,4
-Goi√¢nia,290,263,299,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,10,Agosto,Segunda-feira,4
-Goi√¢nia,24,6,9,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,2,Agosto,Quarta-feira,2
-Juiz de Fora,29,8,21,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,2,Setembro,Quarta-feira,3
-Uberl√¢ndia,20,5,59,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,8,Setembro,S√°bado,3
-Palmas,3,3,3,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,4,Outubro,S√°bado,3
-Ribeir√£o Preto,47,6,27,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,5,Outubro,Segunda-feira,4
-Goi√¢nia,35,8,19,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,6,Novembro,Domingo,4
-Bras√≠lia,6,0,4,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,1,Novembro,Domingo,4
-Bras√≠lia,74,47,54,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,7,Dezembro,Quarta-feira,4
-Americana,34,8,30,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Priv√™,3,40,4,Dezembro,Ter√ßa-feira,3
-Bras√≠lia,576,43,340,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,3,Janeiro,Segunda-feira,3
-Goi√¢nia,20,8,11,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Janeiro,S√°bado,4
-Goi√¢nia,418,32,132,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,3,Fevereiro,Ter√ßa-feira,2
-Goi√¢nia,73,13,22,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,2,Fevereiro,Ter√ßa-feira,4
-Uberl√¢ndia,30,10,32,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,2,Mar√ßo,Quarta-feira,3
-Goi√¢nia,63,15,17,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,2,Mar√ßo,Ter√ßa-feira,4
-Rio de Janeiro,24,10,13,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Abril,Quarta-feira,5
-Barueri,54,18,16,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Abril,Ter√ßa-feira,2
-Uberaba,20,7,11,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,2,Maio,Sexta-Feira,4
-Bras√≠lia,41,7,24,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,3,Maio,Segunda-feira,4
-Ribeir√£o Preto,7,5,7,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,9,Junho,Ter√ßa-feira,4
-Uberl√¢ndia,13,9,15,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,1,Junho,Segunda-feira,4
-Bras√≠lia,10,5,4,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,1,Julho,Sexta-Feira,4
-Cuiab√°,9,6,19,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,7,Julho,Quarta-feira,3
-Sete Lagoas,36,19,36,Jun-Ago,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Agosto,Quinta-Feira,2
-Bras√≠lia,33,12,19,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Agosto,S√°bado,3
-Manaus,156,126,142,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,8,Setembro,Sexta-Feira,3
-Ribeir√£o Preto,19,17,16,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,5,Setembro,Quarta-feira,4
-Goi√¢nia,23,17,11,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,1,Outubro,Sexta-Feira,3
-Goi√¢nia,13,3,3,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,1,Outubro,Domingo,2
-Sorocaba,8,5,8,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,8,Novembro,Sexta-Feira,4
-S√£o Bernardo do Campo,1,0,2,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,0,Novembro,Quarta-feira,1
-S√£o Jos√© dos Campos,21,18,6,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,0,Dezembro,Domingo,2
-An√°polis,56,14,36,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,N√ÉO,Priv√™ Boulevard Su√≠te Hotel,4,31,3,Dezembro,Segunda-feira,5
-Nova Igua√ßu,29,11,14,Dez-Fev,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,6,Janeiro,Domingo,3
-Uberaba,11,5,8,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,1,Janeiro,Quinta-Feira,4
-Uberl√¢ndia,19,12,167,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,9,Fevereiro,Segunda-feira,4
-Goi√¢nia,17,9,16,Dez-Fev,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,-1806,Fevereiro,Segunda-feira,5
-Goi√¢nia,43,8,20,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,1,Mar√ßo,Sexta-Feira,4
-Uberl√¢ndia,12,8,3,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,2,Mar√ßo,S√°bado,4
-Goi√¢nia,15,14,7,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,9,Abril,Ter√ßa-feira,4
-Uberaba,16,13,16,Mar-Mai,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,6,Abril,Quarta-feira,3
-S√£o Paulo,12,4,25,Mar-Mai,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,1,Maio,Sexta-Feira,3
-Curitiba,10,0,5,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,3,Maio,Domingo,4
-Goi√¢nia,27,17,16,Jun-Ago,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,6,Junho,Quinta-Feira,3
-Uberl√¢ndia,6,5,5,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,2,Junho,Ter√ßa-feira,4
-Uberaba,21,20,14,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,3,Julho,Quarta-feira,5
-Bela Vista,43,14,27,Jun-Ago,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,5,Julho,Quinta-Feira,4
-An√°polis,97,31,37,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,8,Agosto,S√°bado,4
-Bras√≠lia,7,3,4,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,5,Agosto,Sexta-Feira,4
-Bras√≠lia,11,9,6,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,0,Setembro,Sexta-Feira,3
-Goi√¢nia,78,11,30,Set-Nov,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,2,Setembro,Ter√ßa-feira,4
-Uberaba,12,7,4,Set-Nov,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,5,Outubro,Segunda-feira,5
-Goi√¢nia,27,11,5,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,2,Outubro,Segunda-feira,3
-Belo Horizonte,4,3,1,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,7,Novembro,Sexta-Feira,5
-Uberaba,27,9,8,Set-Nov,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,2,Novembro,Sexta-Feira,4
-Uberl√¢ndia,12,3,7,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,4,Dezembro,S√°bado,4
-Uberl√¢ndia,21,16,48,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,L'acqua diRoma,4,29,12,Dezembro,Quinta-Feira,5
-Bras√≠lia,34,17,30,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,8,Janeiro,Domingo,4
-Goi√¢nia,12,6,1,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,2,Janeiro,Domingo,5
-Vila Velha ,79,39,51,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,5,Fevereiro,Quarta-feira,3
-Bel√©m,18,10,16,Dez-Fev,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,2,Fevereiro,Quinta-Feira,3
-Uberl√¢ndia,13,3,8,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,3,Mar√ßo,Quarta-feira,4
-Bras√≠lia,14,4,9,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Mar√ßo,Sexta-Feira,4
-Ribeir√£o Preto,19,9,28,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,3,Abril,Sexta-Feira,5
-S√£o Paulo ,88,15,103,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,3,Abril,Segunda-feira,4
-Cuiab√°,8,4,0,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Maio,Ter√ßa-feira,4
-Recife,39,15,31,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Maio,Domingo,3
-Bras√≠lia,130,41,61,Jun-Ago,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,3,Junho,Ter√ßa-feira,4
-Uberaba,79,78,105,Jun-Ago,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,7,Junho,Quarta-feira,4
-Bras√≠lia,13,10,16,Jun-Ago,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,10,Julho,Quarta-feira,4
-Bras√≠lia,18,6,17,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Julho,Segunda-feira,4
-Cuiab√°,8,7,3,Jun-Ago,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Agosto,S√°bado,5
-Uberaba,15,4,6,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,0,Agosto,Sexta-Feira,5
-Uberl√¢ndia,27,0,9,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,0,Setembro,Ter√ßa-feira,1
-Uberaba,5,3,2,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,5,Setembro,Quarta-feira,5
-Bras√≠lia,22,6,6,Set-Nov,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Outubro,Ter√ßa-feira,5
-Goi√¢nia,5,3,11,Set-Nov,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Outubro,Quinta-Feira,2
-S√£o Paulo,31,8,11,Set-Nov,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,1,Novembro,Domingo,4
-Palmas,33,8,8,Set-Nov,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,7,Novembro,S√°bado,5
-Bras√≠lia,10,6,11,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,4,Dezembro,S√°bado,5
-Bras√≠lia,12,3,3,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,Best Western Suites Le Jardin,4,15,4,Dezembro,Quinta-Feira,5
-Goi√¢nia,50,14,24,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,7,Janeiro,Quarta-feira,5
-Goi√¢nia,161,33,85,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Janeiro,Sexta-Feira,4
-S√£o Jos√© do Rio Preto,153,38,81,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,10,Fevereiro,Ter√ßa-feira,5
-Uberl√¢ndia,14,3,12,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,2,Fevereiro,Quinta-Feira,5
-Goi√¢nia,31,12,10,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,4,Mar√ßo,Sexta-Feira,5
-Goi√¢nia,15,10,29,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,9,Mar√ßo,Sexta-Feira,3
-Uberl√¢ndia,5,5,4,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Abril,Quinta-Feira,5
-Goi√¢nia,46,4,21,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,2,Abril,S√°bado,4
-Bras√≠lia,15,6,39,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,4,Maio,Domingo,1
-Bras√≠lia,63,27,35,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,5,Maio,Quarta-feira,4
-Goi√¢nia,17,15,13,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,2,Junho,Domingo,4
-Goi√¢nia,25,22,36,Jun-Ago,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,9,Junho,Ter√ßa-feira,1
-Goi√¢nia,14,8,4,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,1,Julho,Segunda-feira,5
-Bras√≠lia,59,56,37,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,6,Julho,Ter√ßa-feira,3
-Bras√≠lia,11,10,17,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Agosto,Sexta-Feira,5
-Uberl√¢ndia,54,18,31,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,5,Agosto,Quarta-feira,4
-Goi√¢nia,4,3,4,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Setembro,Segunda-feira,5
-Goi√¢nia,10,7,7,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Setembro,Ter√ßa-feira,5
-Goi√¢nia,14,6,7,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,11,Outubro,Domingo,5
-Goi√¢nia,39,12,16,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,2,Outubro,Quinta-Feira,5
-Uberaba,35,24,43,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,4,Novembro,Domingo,5
-Uberaba,6,6,9,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,0,Novembro,Domingo,3
-Goi√¢nia,23,7,2,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,3,Dezembro,Sexta-Feira,4
-Goi√¢nia,48,21,67,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Ecologic Ville Resort & Spa by Vivence,5,34,13,Dezembro,Domingo,4
-Uberaba,16,9,14,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,3,Janeiro,Quinta-Feira,4
-Uberaba,12,6,3,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,1,Janeiro,Quinta-Feira,5
-Fortaleza,36,9,15,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,2,Fevereiro,S√°bado,4
-Bras√≠lia,127,40,80,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,8,Fevereiro,Quarta-feira,5
-Goi√¢nia,12,5,1,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,1,Mar√ßo,Segunda-feira,5
-Goi√¢nia,17,17,74,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,10,Mar√ßo,S√°bado,5
-Ribeir√£o Preto,23,7,21,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,7,Abril,Quinta-Feira,4
-Goi√¢nia,102,17,45,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,2,Abril,Segunda-feira,5
-Curitiba,113,15,55,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,8,Maio,Quinta-Feira,5
-Goi√¢nia,30,8,10,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,1,Maio,Quarta-feira,2
-Curitiba,24,24,24,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,7,Junho,Quarta-feira,2
-Ribeir√£o Preto,15,5,18,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,3,Junho,Quarta-feira,5
-Goi√¢nia,6,4,14,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,1,Julho,Quarta-feira,1
-Uberaba,3,3,0,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,7,Julho,Ter√ßa-feira,4
-Uberl√¢ndia,41,10,56,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,4,Agosto,S√°bado,5
-Goi√¢nia,19,8,56,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,10,Agosto,Domingo,4
-Bras√≠lia,18,9,10,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,1,Setembro,Quarta-feira,5
-Macei√≥,6,6,7,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,7,Setembro,Ter√ßa-feira,5
-Goi√¢nia,103,5,98,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,7,Outubro,Segunda-feira,5
-Bras√≠lia,18,4,16,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,0,Outubro,Sexta-Feira,5
-Campo Grande,9,7,7,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,5,Novembro,Quarta-feira,5
-Goi√¢nia,50,19,45,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,0,Novembro,Sexta-Feira,5
-Uberl√¢ndia,4,3,8,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,8,Dezembro,Ter√ßa-feira,2
-Goi√¢nia,7,3,8,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio Quente Resorts - Hotel Pousada,5,30,5,Dezembro,Domingo,5
-An√°polis,28,23,31,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,4,Janeiro,Sexta-Feira,3
-Goi√¢nia,32,6,11,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,10,Janeiro,Sexta-Feira,5
-Uberl√¢ndia,4,0,4,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,9,Fevereiro,Sexta-Feira,5
-Goi√¢nia,37,8,9,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,3,Fevereiro,Ter√ßa-feira,4
-Uberl√¢ndia,10,3,7,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,6,Mar√ßo,Quarta-feira,5
-Uberl√¢ndia,36,30,80,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,8,Mar√ßo,Sexta-Feira,5
-Goi√¢nia,31,10,14,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,5,Abril,Domingo,4
-Uberl√¢ndia,66,33,60,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,10,Abril,S√°bado,5
-Osasco,17,4,8,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,0,Maio,S√°bado,5
-Bras√≠lia,57,20,71,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,0,Maio,Sexta-Feira,5
-Goi√¢nia,42,8,22,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,6,Junho,Segunda-feira,4
-Goi√¢nia,28,20,14,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,8,Junho,Sexta-Feira,3
-Salvador,19,8,10,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,3,Julho,Quarta-feira,4
-Goi√¢nia,20,11,21,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,9,Julho,Sexta-Feira,5
-Bras√≠lia,75,19,93,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,8,Agosto,Domingo,4
-Goi√¢nia,91,16,26,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,3,Agosto,Quarta-feira,4
-Bras√≠lia,52,48,78,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,8,Setembro,S√°bado,3
-Goi√¢nia,93,4,8,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,2,Setembro,S√°bado,5
-Uberl√¢ndia,9,3,15,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,1,Outubro,Quarta-feira,5
-Uberaba,5,3,9,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,2,Outubro,Quinta-Feira,5
-Luzi√¢nia,37,7,10,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,0,Novembro,Domingo,5
-Porto Alegre,31,25,35,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,7,Novembro,Domingo,3
-Goi√¢nia,6,4,4,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,7,Dezembro,Quinta-Feira,5
-Goi√¢nia,252,55,113,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Golden Dolphin Grand Hotel,5,31,8,Dezembro,Segunda-feira,4
-Goi√¢nia,164,48,82,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,4,Janeiro,S√°bado,5
-Goi√¢nia,5,3,9,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,4,Janeiro,Ter√ßa-feira,5
-Uberl√¢ndia,7,5,20,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,3,Fevereiro,S√°bado,4
-Goi√¢nia,18,11,15,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,7,Fevereiro,Ter√ßa-feira,5
-Goi√¢nia,20,13,16,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,6,Mar√ßo,Sexta-Feira,5
-Goi√¢nia,21,5,12,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,8,Mar√ßo,Segunda-feira,4
-Goi√¢nia,125,35,48,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,4,Abril,Domingo,5
-Goi√¢nia,11,7,10,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,1,Abril,Segunda-feira,4
-Luzi√¢nia,16,10,16,Mar-Mai,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,7,Maio,Segunda-feira,3
-Bras√≠lia,19,5,5,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,3,Maio,Segunda-feira,5
-Goi√¢nia,73,27,365,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,6,Junho,Quarta-feira,5
-Goi√¢nia,5,4,4,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,11,Junho,Quarta-feira,5
-Goi√¢nia,30,10,17,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,3,Julho,Segunda-feira,5
-Uberl√¢ndia,7,4,10,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,3,Julho,Domingo,5
-Uberl√¢ndia,67,46,99,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,6,Agosto,Domingo,5
-Cristalina,18,13,25,Jun-Ago,Sozinho,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,9,Agosto,S√°bado,5
-Uberl√¢ndia,12,7,11,Set-Nov,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,4,Setembro,Segunda-feira,2
-Uberl√¢ndia,40,12,26,Set-Nov,Amigos,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,7,Setembro,S√°bado,5
-Goi√¢nia,142,17,31,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,3,Outubro,Segunda-feira,4
-Bras√≠lia,8,4,16,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,7,Outubro,S√°bado,5
-Campinas,15,9,3,Set-Nov,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,2,Novembro,Segunda-feira,5
-Bras√≠lia,2,18,14,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,8,Novembro,Quarta-feira,5
-Bras√≠lia,10,6,10,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,5,Dezembro,Ter√ßa-feira,5
-Goi√¢nia,16,13,55,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM,Serra Park,5,27,9,Dezembro,Ter√ßa-feira,5
-Bras√≠lia,21,7,13,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,10,Janeiro,Ter√ßa-feira,5
-S√£o Paulo,69,58,41,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,5,Janeiro,S√°bado,5
-Goi√¢nia,33,13,8,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,5,Fevereiro,Quarta-feira,5
-Goi√¢nia,1,0,2,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,0,Fevereiro,Ter√ßa-feira,5
-Goi√¢nia,49,8,23,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,5,Mar√ßo,Segunda-feira,5
-Goi√¢nia,775,52,255,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Mar√ßo,Quarta-feira,3
-Manaus,16,7,6,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,7,Abril,Segunda-feira,4
-Goi√¢nia,1,0,1,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,0,Abril,Quarta-feira,5
-Luzi√¢nia,19,11,17,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,7,Maio,Sexta-Feira,4
-Porto Alegre,7,4,8,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,7,Maio,Domingo,5
-Goi√¢nia,38,18,16,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,8,Junho,Domingo,5
-Goi√¢nia,48,14,30,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,9,Junho,Quarta-feira,5
-Uberl√¢ndia,136,20,55,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,3,Julho,Domingo,5
-Goi√¢nia,26,8,1,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,6,Julho,Segunda-feira,4
-Feira de Santana,3,3,2,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,4,Agosto,Domingo,4
-Goi√¢nia,78,17,24,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,5,Agosto,Segunda-feira,5
-Bras√≠lia,24,18,12,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,0,Setembro,Quinta-Feira,5
-Campo Grande,2,0,15,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,1,Setembro,Segunda-feira,1
-Ribeir√£o Preto,4,3,3,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,11,Outubro,Quinta-Feira,5
-Uberaba,11,7,17,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Outubro,S√°bado,5
-Curitiba,1,0,1,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,0,Novembro,Quarta-feira,2
-Uberaba,35,16,17,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Novembro,Ter√ßa-feira,4
-Goi√¢nia,110,19,76,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Dezembro,Ter√ßa-feira,4
-Goi√¢nia,53,25,24,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Hotel Taiyo,5,13,3,Dezembro,Domingo,5
-Piracicaba,320,45,102,Dez-Fev,Neg√≥cios,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,6,Janeiro,Ter√ßa-feira,3
-Goi√¢nia,2,0,2,Dez-Fev,Neg√≥cios,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Janeiro,S√°bado,4
-Goi√¢nia,26,6,12,Dez-Fev,Fam√≠lia,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Fevereiro,Domingo,5
-Goi√¢nia,4,4,0,Dez-Fev,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Fevereiro,Segunda-feira,5
-Goi√¢nia,9,9,6,Mar-Mai,Sozinho,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Mar√ßo,Quarta-feira,2
-Goi√¢nia,17,14,70,Mar-Mai,Amigos,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,10,Mar√ßo,Domingo,5
-Uberl√¢ndia,3,0,1,Mar-Mai,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Abril,Ter√ßa-feira,5
-Uberl√¢ndia,14,0,4,Mar-Mai,Fam√≠lia,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,4,Abril,Ter√ßa-feira,2
-Goi√¢nia,235,111,267,Mar-Mai,Amigos,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,9,Maio,Sexta-Feira,5
-Goi√¢nia,59,9,21,Mar-Mai,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Maio,Segunda-feira,5
-Goi√¢nia,2,0,2,Jun-Ago,Amigos,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Junho,Quarta-feira,5
-Goi√¢nia,2,0,1,Jun-Ago,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Junho,Quarta-feira,5
-Goi√¢nia,21,18,53,Jun-Ago,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,11,Julho,Quarta-feira,5
-Goi√¢nia,4,0,16,Jun-Ago,Amigos,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Julho,Quinta-Feira,1
-Palmas,184,52,70,Jun-Ago,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Agosto,Quarta-feira,5
-Bras√≠lia,262,75,150,Jun-Ago,Fam√≠lia,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Agosto,Segunda-feira,4
-Goi√¢nia,69,11,17,Set-Nov,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Setembro,Domingo,5
-Uberaba,92,12,27,Set-Nov,Neg√≥cios,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Setembro,S√°bado,4
-Goi√¢nia,131,61,116,Set-Nov,Fam√≠lia,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,8,Outubro,Quinta-Feira,3
-Macei√≥,25,10,16,Set-Nov,Amigos,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,8,Outubro,Ter√ßa-feira,5
-Uberl√¢ndia,49,22,53,Set-Nov,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,5,Novembro,Domingo,3
-Goi√¢nia,148,33,55,Set-Nov,Neg√≥cios,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Novembro,Quarta-feira,4
-Uberl√¢ndia,26,7,22,Dez-Fev,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,4,Dezembro,Quarta-feira,4
-Goi√¢nia,13,4,1,Dez-Fev,Casais,SIM,N√ÉO,N√ÉO,N√ÉO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Dezembro,Quarta-feira,4
-Belo Horizonte,3,3,20,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Janeiro,Ter√ßa-feira,1
-Goi√¢nia,46,12,87,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,3,Janeiro,Ter√ßa-feira,5
-Bras√≠lia,127,40,81,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,8,Fevereiro,Quinta-Feira,4
-Goi√¢nia,15,5,12,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,4,Fevereiro,Domingo,5
-Goi√¢nia,16,14,23,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,7,Mar√ßo,Sexta-Feira,5
-Goi√¢nia,113,38,27,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,1,Mar√ßo,Ter√ßa-feira,4
-Bras√≠lia,7,5,5,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,7,Abril,Segunda-feira,3
-Contagem,73,32,99,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,10,Abril,Quinta-Feira,4
-Goi√¢nia,35,12,3,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,2,Maio,Sexta-Feira,5
-Bras√≠lia,139,20,86,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Maio,Segunda-feira,5
-Bras√≠lia,28,12,30,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,2,Junho,S√°bado,5
-Goi√¢nia,34,8,26,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,4,Junho,Ter√ßa-feira,4
-Goi√¢nia,4,3,5,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,3,Julho,Quinta-Feira,5
-Goi√¢nia,32,11,14,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,3,Julho,Domingo,5
-Bras√≠lia,9,3,4,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,1,Agosto,Quinta-Feira,5
-Goi√¢nia,333,58,200,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,4,Agosto,Domingo,5
-Goi√¢nia,29,11,15,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,6,Setembro,Segunda-feira,5
-Bras√≠lia,85,43,68,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Setembro,Quarta-feira,5
-Goi√¢nia,12,5,1,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Outubro,Sexta-Feira,5
-Bras√≠lia,34,10,7,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,4,Outubro,Quinta-Feira,4
-S√£o Paulo,13,7,8,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Novembro,Domingo,5
-Goi√¢nia,5,5,14,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Novembro,Domingo,5
-Goi√¢nia,169,25,41,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,8,Dezembro,Ter√ßa-feira,5
-Goi√¢nia,11,10,6,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,7,Dezembro,Ter√ßa-feira,5
-Goi√¢nia,4,3,2,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,6,Janeiro,Sexta-Feira,5
-Goi√¢nia,50,39,48,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,10,Janeiro,Quinta-Feira,2
-An√°polis,10,3,1,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Fevereiro,Ter√ßa-feira,5
-Uberl√¢ndia,7,4,4,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Fevereiro,Sexta-Feira,5
-Bras√≠lia,60,7,42,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,8,Mar√ßo,Ter√ßa-feira,5
-Palmas,92,49,18,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,5,Mar√ßo,Quinta-Feira,4
-Uberaba,106,37,58,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,3,Abril,Quarta-feira,4
-Uberl√¢ndia,7,5,45,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,10,Abril,Segunda-feira,4
-Porto Alegre,37,31,38,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,9,Maio,Sexta-Feira,5
-Goi√¢nia,70,25,19,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,3,Maio,Sexta-Feira,1
-Goi√¢nia,9,3,4,Jun-Ago,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Junho,Segunda-feira,5
-Goi√¢nia,11,6,7,Jun-Ago,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Junho,Segunda-feira,5
-Cristalina,39,18,9,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Julho,Quinta-Feira,4
-Bras√≠lia,10,0,9,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Julho,Quarta-feira,5
-Goi√¢nia,78,17,24,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,5,Agosto,Segunda-feira,4
-Bras√≠lia,48,21,19,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Agosto,Sexta-Feira,5
-Uberl√¢ndia,112,34,41,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Setembro,Domingo,5
-Goi√¢nia,28,17,14,Set-Nov,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,2,Setembro,Quarta-feira,5
-Bras√≠lia,11,3,16,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,2,Outubro,Quarta-feira,2
-Goi√¢nia,9,5,11,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,9,Outubro,Quarta-feira,4
-Goi√¢nia,4,4,1,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,0,Novembro,Quarta-feira,3
-An√°polis,22,15,25,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,6,Novembro,Segunda-feira,4
-Goi√¢nia,42,11,36,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Dezembro,Segunda-feira,5
-Uberaba,20,16,9,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Dezembro,Ter√ßa-feira,4
-Uberl√¢ndia,160,34,88,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Janeiro,S√°bado,4
-Goi√¢nia,372,78,169,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Janeiro,Domingo,4
-Goi√¢nia,84,18,36,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Fevereiro,Quarta-feira,5
-Goi√¢nia,21,13,20,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Fevereiro,Quinta-Feira,5
-Bras√≠lia,95,37,55,Mar-Mai,Amigos,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Mar√ßo,Ter√ßa-feira,4
-Curitiba,118,107,131,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,10,Mar√ßo,Segunda-feira,5
-Uberl√¢ndia,6,0,8,Mar-Mai,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,10,Abril,Quarta-feira,5
-Goi√¢nia,60,4,31,Mar-Mai,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,2,Abril,Ter√ßa-feira,4
-Uberaba,275,79,339,Mar-Mai,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Maio,Domingo,4
-Uberl√¢ndia,46,39,42,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Maio,Quarta-feira,4
-Goi√¢nia,6,5,6,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Junho,Ter√ßa-feira,5
-Uberaba,11,0,5,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,0,Junho,Quinta-Feira,5
-Goi√¢nia,75,37,48,Jun-Ago,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Julho,S√°bado,5
-Santo Andr√©,240,76,115,Jun-Ago,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,3,Julho,Segunda-feira,5
-Rio Verde,20,12,7,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Agosto,Quarta-feira,5
-Bel√©m,62,40,25,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Agosto,Domingo,5
-FloriAn√°polis,88,19,58,Set-Nov,Amigos,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Setembro,Quarta-feira,5
-Goi√¢nia,6,3,5,Set-Nov,Amigos,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,0,Setembro,Ter√ßa-feira,5
-Belo Horizonte,18,9,8,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Outubro,Segunda-feira,3
-An√°polis,159,43,78,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Outubro,Quarta-feira,5
-Caxias do Sul,47,23,20,Set-Nov,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Novembro,Quinta-Feira,4
-Macei√≥,86,12,46,Set-Nov,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Novembro,Domingo,4
-Goi√¢nia,42,9,13,Dez-Fev,Casais,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Dezembro,Ter√ßa-feira,5
-Curitiba,64,33,23,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Dezembro,Quinta-Feira,4
-Goi√¢nia,167,71,119,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Janeiro,S√°bado,5
-Goi√¢nia,25,5,12,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Janeiro,Quinta-Feira,5
-Bras√≠lia,12,12,6,Dez-Fev,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,4,Fevereiro,Sexta-Feira,3
-Goi√¢nia,608,117,319,Dez-Fev,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Fevereiro,S√°bado,5
-Goi√¢nia,5,4,3,Mar-Mai,Amigos,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Mar√ßo,Domingo,5
-Goi√¢nia,26,17,34,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,7,Mar√ßo,Quinta-Feira,5
-Porto Alegre,11,5,9,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,7,Abril,Segunda-feira,5
-Goi√¢nia,39,10,13,Mar-Mai,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,3,Abril,Quarta-feira,4
-S√£o Paulo,1,0,3,Mar-Mai,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,0,Maio,Quinta-Feira,2
-Goi√¢nia,108,20,22,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Maio,Quinta-Feira,3
-Bela Vista,119,20,46,Jun-Ago,Amigos,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,1,Junho,Domingo,5
-Goi√¢nia,27,15,17,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,6,Junho,Ter√ßa-feira,3
-Curitiba,55,55,134,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Julho,Quarta-feira,5
-Uberl√¢ndia,7,3,7,Jun-Ago,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,3,Julho,Sexta-Feira,4
-Uberl√¢ndia,3,3,2,Jun-Ago,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,0,Agosto,Quarta-feira,3
-Goi√¢nia,11,3,19,Jun-Ago,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,6,Agosto,Segunda-feira,4
-Uberaba,27,15,16,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Setembro,Domingo,5
-Goi√¢nia,13,4,6,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,0,Setembro,Quarta-feira,5
-Bras√≠lia,19,11,14,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Outubro,Domingo,3
-Uberl√¢ndia,38,12,17,Set-Nov,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,7,Outubro,Sexta-Feira,5
-Goi√¢nia,167,71,119,Set-Nov,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Novembro,Domingo,4
-Goi√¢nia,28,6,9,Set-Nov,Neg√≥cios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,3,Novembro,Ter√ßa-feira,3
-Uberl√¢ndia,9,8,5,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,4,Dezembro,Domingo,5
-Goi√¢nia,13,4,4,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,5,Dezembro,Ter√ßa-feira,5
-Goi√¢nia,65,24,72,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,6,Janeiro,Segunda-feira,3
-Goi√¢nia,8,3,3,Dez-Fev,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,3,Janeiro,Quinta-Feira,5
-Bras√≠lia,61,13,26,Dez-Fev,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,4,Fevereiro,Domingo,2
-Goi√¢nia,3,3,8,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,1,Fevereiro,S√°bado,2
-Goi√¢nia,66,13,21,Mar-Mai,Amigos,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,9,Mar√ßo,Sexta-Feira,5
-FloriAn√°polis,9,7,4,Mar-Mai,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,2,Mar√ßo,Ter√ßa-feira,5
-FloriAn√°polis,82,14,61,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,1,Abril,Quarta-feira,3
-Uberl√¢ndia,113,48,33,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,4,Abril,Domingo,3
-Goi√¢nia,11,8,12,Mar-Mai,Amigos,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,6,Maio,Domingo,3
-Uberl√¢ndia,2,1,1,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,3,Maio,Ter√ßa-feira,3
-Goi√¢nia,31,11,24,Jun-Ago,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,2,Junho,Quarta-feira,5
-Uberaba,32,12,22,Jun-Ago,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,5,Junho,Quarta-feira,4
-Goi√¢nia,56,7,25,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,7,Julho,Domingo,3
-Uberl√¢ndia,45,6,22,Jun-Ago,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,3,Julho,Quinta-Feira,5
-Goi√¢nia,17,4,4,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,0,Agosto,Domingo,4
-Goi√¢nia,23,23,11,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,1,Agosto,Domingo,5
-Uberl√¢ndia,56,18,24,Set-Nov,Amigos,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,4,Setembro,S√°bado,5
-Goi√¢nia,290,263,300,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,10,Setembro,S√°bado,4
-Uberaba,26,7,9,Set-Nov,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,0,Outubro,Sexta-Feira,4
-S√£o Paulo,116,44,53,Set-Nov,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,5,Outubro,S√°bado,4
-Maring√°,14,5,15,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,5,Novembro,Quinta-Feira,4
-Goi√¢nia,13,7,1,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,4,Novembro,Domingo,5
-Goi√¢nia,20,9,25,Dez-Fev,Casais,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,8,Dezembro,Ter√ßa-feira,4
-An√°polis,3,3,3,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,N√ÉO,N√ÉO,SIM, Hotel Parque Das Primaveras,3,19,2,Dezembro,Quarta-feira,5
-Goi√¢nia,17,3,12,Dez-Fev,Amigos,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,2,Janeiro,Segunda-feira,4
-Uberaba,21,11,13,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Janeiro,Domingo,5
-Goi√¢nia,60,11,33,Dez-Fev,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,3,Fevereiro,Quinta-Feira,5
-Uberl√¢ndia,12,4,15,Dez-Fev,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,11,Fevereiro,Segunda-feira,5
-Goi√¢nia,27,12,51,Mar-Mai,Amigos,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Mar√ßo,Ter√ßa-feira,5
-Goi√¢nia,34,12,35,Mar-Mai,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,3,Mar√ßo,Ter√ßa-feira,4
-Uberl√¢ndia,69,22,38,Mar-Mai,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,6,Abril,Quinta-Feira,5
-Goi√¢nia,16,4,7,Mar-Mai,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Abril,S√°bado,5
-Uberaba,26,5,5,Mar-Mai,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,1,Maio,Quinta-Feira,4
-Goi√¢nia,54,10,15,Mar-Mai,Neg√≥cios,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,5,Maio,Ter√ßa-feira,4
-Bras√≠lia,35,17,27,Jun-Ago,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,6,Junho,Ter√ßa-feira,5
-S√£o Paulo,23,12,7,Jun-Ago,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,7,Junho,S√°bado,5
-Bras√≠lia,6,3,14,Jun-Ago,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,3,Julho,Domingo,5
-Goi√¢nia,27,8,16,Jun-Ago,Amigos,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Julho,Quinta-Feira,4
-Goi√¢nia,41,8,14,Jun-Ago,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Agosto,Quarta-feira,3
-Uberl√¢ndia,12,4,6,Jun-Ago,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,2,Agosto,Segunda-feira,5
-Goi√¢nia,14,3,14,Set-Nov,Amigos,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,6,Setembro,Ter√ßa-feira,5
-Goi√¢nia,415,162,265,Set-Nov,Neg√≥cios,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,8,Setembro,Domingo,4
-Ribeir√£o Preto,76,27,32,Set-Nov,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,6,Outubro,Quinta-Feira,3
-Bras√≠lia,24,12,30,Set-Nov,Casais,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Outubro,Segunda-feira,4
-Joinville,23,9,23,Set-Nov,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,4,Novembro,Segunda-feira,3
-Goi√¢nia,182,24,47,Set-Nov,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,2,Novembro,Domingo,4
-Goi√¢nia,289,28,133,Dez-Fev,Fam√≠lia,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,5,Dezembro,Ter√ßa-feira,4
-Uberl√¢ndia,101,35,46,Dez-Fev,Amigos,SIM,SIM,SIM,N√ÉO,N√ÉO,SIM,Hotel Hot Star,3.5,23,5,Dezembro,S√°bado,5
-Ribeir√£o Preto,31,11,20,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,2,Janeiro,Sexta-Feira,4
-Goi√¢nia,20,6,9,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,0,Janeiro,Quarta-feira,5
-Goi√¢nia,60,16,15,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Fevereiro,S√°bado,4
-An√°polis,1,0,2,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,0,Fevereiro,Domingo,5
-Goi√¢nia,9,3,13,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,2,Mar√ßo,Quinta-Feira,3
-Goi√¢nia,19,7,5,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Mar√ßo,Quarta-feira,5
-Bel√©m,116,78,206,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,9,Abril,Domingo,5
-Uberaba,22,13,26,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,2,Abril,Sexta-Feira,4
-Uberaba,83,10,26,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,1,Maio,Ter√ßa-feira,4
-Bras√≠lia,20,3,9,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,0,Maio,Segunda-feira,5
-Goi√¢nia,7,5,6,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,1,Junho,Segunda-feira,5
-Goi√¢nia,95,34,46,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,6,Junho,Domingo,5
-Uberaba,15,6,19,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,4,Julho,Quarta-feira,4
-Bras√≠lia,13,7,12,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Julho,Domingo,4
-Uberl√¢ndia,19,8,24,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,10,Agosto,Quarta-feira,5
-Bras√≠lia,21,6,15,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,3,Agosto,S√°bado,5
-Bras√≠lia,56,11,14,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Setembro,Sexta-Feira,5
-Bras√≠lia,29,7,15,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,7,Setembro,Quinta-Feira,5
-Porto Alegre,20,0,8,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,2,Outubro,Sexta-Feira,5
-Bras√≠lia,39,20,31,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,8,Outubro,Quinta-Feira,4
-Fortaleza,9,6,3,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Novembro,S√°bado,5
-Uberaba,43,38,29,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,4,Novembro,S√°bado,5
-Luzi√¢nia,16,10,11,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,9,Dezembro,Quinta-Feira,5
-Goi√¢nia,6,6,12,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,10,Dezembro,Quarta-feira,4
-Uberaba,16,6,3,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,3,Janeiro,S√°bado,4
-Goi√¢nia,15,3,13,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,5,Janeiro,Quinta-Feira,5
-Goi√¢nia,30,6,26,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,3,Fevereiro,Ter√ßa-feira,4
-Goi√¢nia,41,9,111,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,1,Fevereiro,Sexta-Feira,5
-S√£o Paulo,44,35,53,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,6,Mar√ßo,Ter√ßa-feira,5
-Goi√¢nia,30,9,17,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,0,Mar√ßo,Ter√ßa-feira,2
-Ribeir√£o Preto,23,10,18,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,4,Abril,Segunda-feira,5
-Salvador,3,0,8,Mar-Mai,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,3,Abril,Ter√ßa-feira,2
-Bras√≠lia,12,6,16,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,3,Maio,Sexta-Feira,3
-Bras√≠lia,15,6,17,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,1,Maio,Quinta-Feira,5
-Bras√≠lia,5,0,5,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,0,Junho,Quarta-feira,5
-Goi√¢nia,32,5,11,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,6,Junho,Domingo,4
-Goi√¢nia,28,5,23,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,5,Julho,Sexta-Feira,5
-Aparecida de Goi√¢nia,77,18,48,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,10,Julho,S√°bado,4
-Goi√¢nia,11,8,2,Jun-Ago,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,0,Agosto,Segunda-feira,4
-Rio de Janeiro,102,25,37,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,6,Agosto,Domingo,5
-Ribeir√£o Preto,13,3,2,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,6,Setembro,Ter√ßa-feira,5
-Goi√¢nia,62,13,31,Set-Nov,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,2,Setembro,Ter√ßa-feira,4
-Bras√≠lia,26,22,42,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,5,Outubro,Domingo,5
-Bras√≠lia,13,6,12,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,1,Outubro,S√°bado,4
-Bras√≠lia,26,18,43,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,4,Novembro,Segunda-feira,5
-Uberl√¢ndia,17,10,39,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,3,Novembro,S√°bado,5
-S√£o Paulo,4,4,1,Dez-Fev,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,1,Dezembro,Segunda-feira,4
-Bela Vista,20,18,19,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™,5,40,4,Dezembro,Sexta-Feira,2
-Goi√¢nia,14,3,7,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,7,Janeiro,S√°bado,4
-Uberl√¢ndia,19,3,12,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,1,Janeiro,Quarta-feira,5
-Goi√¢nia,4,4,2,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,1,Fevereiro,Quarta-feira,2
-Goi√¢nia,116,12,43,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,4,Fevereiro,Ter√ßa-feira,4
-Goi√¢nia,121,13,59,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,9,Mar√ßo,Ter√ßa-feira,2
-Goi√¢nia,14,7,6,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,2,Mar√ßo,Sexta-Feira,5
-Goi√¢nia,56,16,54,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,9,Abril,Ter√ßa-feira,4
-Uberl√¢ndia,73,4,39,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,3,Abril,Segunda-feira,3
-Goi√¢nia,9,5,4,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,6,Maio,Quinta-Feira,5
-Goi√¢nia,137,42,51,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,5,Maio,Domingo,3
-Uberaba,30,12,38,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,4,Junho,S√°bado,5
-Campinas,130,19,49,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,6,Junho,Domingo,3
-Goi√¢nia,50,15,23,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,3,Julho,Sexta-Feira,4
-Bras√≠lia,22,9,11,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,3,Julho,Quarta-feira,4
-Campo Grande,85,37,65,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,4,Agosto,Sexta-Feira,5
-Goi√¢nia,73,7,26,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,3,Agosto,Quinta-Feira,5
-Goi√¢nia,20,10,27,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,2,Setembro,Quinta-Feira,4
-Uberl√¢ndia,13,6,13,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,2,Setembro,Ter√ßa-feira,5
-Uberl√¢ndia,18,3,10,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,2,Outubro,Segunda-feira,2
-Goi√¢nia,6,4,6,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,0,Outubro,S√°bado,5
-Goi√¢nia,48,8,25,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,6,Novembro,Segunda-feira,4
-Goi√¢nia,24,3,5,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,0,Novembro,Domingo,5
-Uberl√¢ndia,123,26,63,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,4,Dezembro,S√°bado,5
-Goi√¢nia,24,7,6,Dez-Fev,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,diRoma Resort,4,30,1,Dezembro,Quinta-Feira,4
-Uberl√¢ndia,20,13,17,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Janeiro,Segunda-feira,4
-Goi√¢nia,15,3,4,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,7,Janeiro,Ter√ßa-feira,3
-Itaja√≠,189,72,129,Dez-Fev,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,3,Fevereiro,Sexta-Feira,4
-Goi√¢nia,25,19,27,Dez-Fev,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,8,Fevereiro,Segunda-feira,3
-Goi√¢nia,33,11,12,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Mar√ßo,Quarta-feira,5
-Goi√¢nia,14,7,13,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Mar√ßo,Quinta-Feira,5
-Goi√¢nia,38,22,47,Mar-Mai,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Abril,Segunda-feira,4
-Campo Grande,169,43,85,Mar-Mai,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,12,Abril,Domingo,4
-Goi√¢nia,20,17,21,Mar-Mai,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Maio,Domingo,3
-Goi√¢nia,17,10,18,Mar-Mai,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,3,Maio,Ter√ßa-feira,4
-Goi√¢nia,96,47,161,Jun-Ago,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,11,Junho,Segunda-feira,4
-Goi√¢nia,38,13,11,Jun-Ago,Neg√≥cios,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,5,Junho,Domingo,3
-S√£o Paulo,12,11,9,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,6,Julho,Segunda-feira,4
-Goi√¢nia,9,8,1,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,6,Julho,Segunda-feira,5
-Goi√¢nia,23,21,22,Jun-Ago,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,7,Agosto,Quarta-feira,3
-Goi√¢nia,21,6,3,Jun-Ago,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,5,Agosto,Ter√ßa-feira,4
-Goi√¢nia,30,27,19,Set-Nov,Sozinho,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,6,Setembro,Sexta-Feira,5
-Goi√¢nia,63,16,59,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,11,Setembro,Quarta-feira,3
-Bras√≠lia,35,3,25,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,1,Outubro,Segunda-feira,5
-Bras√≠lia,15,4,8,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,1,Outubro,Domingo,5
-Uberl√¢ndia,50,13,29,Set-Nov,Casais,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,8,Novembro,Quinta-Feira,4
-Goi√¢nia,154,23,31,Set-Nov,Amigos,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,4,Novembro,Quinta-Feira,4
-Goi√¢nia,9,6,5,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,9,Dezembro,Quarta-feira,2
-Goi√¢nia,20,19,112,Dez-Fev,Fam√≠lia,SIM,SIM,N√ÉO,SIM,SIM,SIM,Pousada do Ip√™s Thermas Resort,4,24,5,Dezembro,Ter√ßa-feira,4
+Cidade;# Revisıes;# Revisıes de Hotel;# Votos ⁄teis;PerÌodo;Tipo;Animadores;Academia;Quadra de Tenis;Spa;Piscina;Wifi Free;Nome do Hotel;# Estrelas;Qtde Quartos;# Anos como membro;MÍs da Revis„o;Dia da Revis„o;PontuaÁ„o
+Goi‚nia;11;4;13;Dez-Fev;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;9;Janeiro;Quinta-Feira;5
+Goi‚nia;119;21;75;Dez-Fev;NegÛcios;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;3;Janeiro;Sexta-Feira;3
+Goi‚nia;36;9;25;Mar-Mai;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;2;Fevereiro;S·bado;5
+BrasÌlia;14;7;14;Mar-Mai;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;6;Fevereiro;Sexta-Feira;4
+Uberl‚ndia;5;5;2;Mar-Mai;Sozinho;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;7;MarÁo;TerÁa-feira;4
+Uberl‚ndia;31;8;27;Mar-Mai;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;2;MarÁo;TerÁa-feira;3
+BrasÌlia;45;12;46;Mar-Mai;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;4;Abril;Sexta-Feira;4
+Goi‚nia;2;1;4;Mar-Mai;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;0;Abril;TerÁa-feira;4
+S„o Paulo;24;3;8;Mar-Mai;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;3;Maio;S·bado;4
+Uberl‚ndia;12;7;11;Mar-Mai;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;5;Maio;TerÁa-feira;3
+Goi‚nia;102;24;58;Jun-Ago;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;9;Junho;Sexta-Feira;2
+Uberaba;20;9;24;Jun-Ago;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;4;Junho;S·bado;3
+Goi‚nia;7;6;9;Jun-Ago;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;1;Julho;Quarta-feira;2
+Goi‚nia;22;5;13;Jun-Ago;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;1;Julho;Quinta-Feira;3
+BrasÌlia;3;3;0;Jun-Ago;Amigos;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;1;Agosto;Domingo;3
+Cuiab·;146;17;33;Jun-Ago;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;2;Agosto;S·bado;4
+Uberl‚ndia;8;8;9;Set-Nov;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;4;Setembro;Quarta-feira;1
+Goi‚nia;9;3;1;Set-Nov;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;2;Setembro;S·bado;4
+Uberl‚ndia;41;9;19;Set-Nov;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;2;Outubro;TerÁa-feira;3
+Goi‚nia;8;7;26;Set-Nov;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;10;Outubro;Segunda-feira;2
+BrasÌlia;10;5;2;Set-Nov;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;7;Novembro;S·bado;4
+Cuiab·;4;3;3;Set-Nov;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;3;Novembro;Segunda-feira;1
+BrasÌlia;18;7;19;Dez-Fev;FamÌlia;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;0;Dezembro;S·bado;4
+Goi‚nia;4;4;3;Dez-Fev;Casais;N√O;SIM;N√O;N√O;SIM;SIM;Hotel Morada das ¡guas;3;38;5;Dezembro;Domingo;2
+Ribeir„o Preto;29;11;15;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;3;Janeiro;Segunda-feira;4
+Goi‚nia;114;42;52;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;11;Janeiro;S·bado;4
+Uberl‚ndia;30;12;17;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;8;Fevereiro;Sexta-Feira;5
+BrasÌlia;87;18;36;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;3;Fevereiro;Quinta-Feira;3
+Goi‚nia;26;10;28;Mar-Mai;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;1;MarÁo;Quarta-feira;5
+Ribeir„o Preto;8;7;9;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;8;MarÁo;Quarta-feira;5
+Uberl‚ndia;11;8;13;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;7;Abril;Sexta-Feira;5
+Uberaba;4;3;2;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;0;Abril;Sexta-Feira;3
+Uberl‚ndia;56;8;7;Mar-Mai;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;1;Maio;TerÁa-feira;3
+Campo Grande;13;12;8;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;4;Maio;Quarta-feira;3
+Uberaba;58;9;15;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;0;Junho;S·bado;4
+Cristalina;20;7;4;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;6;Junho;S·bado;3
+Goi‚nia;70;27;24;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;6;Julho;Sexta-Feira;4
+Londrina;6;3;7;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;1;Julho;Quinta-Feira;4
+Goi‚nia;290;263;299;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;10;Agosto;Segunda-feira;4
+Goi‚nia;24;6;9;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;2;Agosto;Quarta-feira;2
+Juiz de Fora;29;8;21;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;2;Setembro;Quarta-feira;3
+Uberl‚ndia;20;5;59;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;8;Setembro;S·bado;3
+Palmas;3;3;3;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;4;Outubro;S·bado;3
+Ribeir„o Preto;47;6;27;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;5;Outubro;Segunda-feira;4
+Goi‚nia;35;8;19;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;6;Novembro;Domingo;4
+BrasÌlia;6;0;4;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;1;Novembro;Domingo;4
+BrasÌlia;74;47;54;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;7;Dezembro;Quarta-feira;4
+Americana;34;8;30;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Hotel PrivÈ;3;40;4;Dezembro;TerÁa-feira;3
+BrasÌlia;576;43;340;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;3;Janeiro;Segunda-feira;3
+Goi‚nia;20;8;11;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Janeiro;S·bado;4
+Goi‚nia;418;32;132;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;3;Fevereiro;TerÁa-feira;2
+Goi‚nia;73;13;22;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;2;Fevereiro;TerÁa-feira;4
+Uberl‚ndia;30;10;32;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;2;MarÁo;Quarta-feira;3
+Goi‚nia;63;15;17;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;2;MarÁo;TerÁa-feira;4
+Rio de Janeiro;24;10;13;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Abril;Quarta-feira;5
+Barueri;54;18;16;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Abril;TerÁa-feira;2
+Uberaba;20;7;11;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;2;Maio;Sexta-Feira;4
+BrasÌlia;41;7;24;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;3;Maio;Segunda-feira;4
+Ribeir„o Preto;7;5;7;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;9;Junho;TerÁa-feira;4
+Uberl‚ndia;13;9;15;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;1;Junho;Segunda-feira;4
+BrasÌlia;10;5;4;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;1;Julho;Sexta-Feira;4
+Cuiab·;9;6;19;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;7;Julho;Quarta-feira;3
+Sete Lagoas;36;19;36;Jun-Ago;Sozinho;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Agosto;Quinta-Feira;2
+BrasÌlia;33;12;19;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Agosto;S·bado;3
+Manaus;156;126;142;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;8;Setembro;Sexta-Feira;3
+Ribeir„o Preto;19;17;16;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;5;Setembro;Quarta-feira;4
+Goi‚nia;23;17;11;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;1;Outubro;Sexta-Feira;3
+Goi‚nia;13;3;3;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;1;Outubro;Domingo;2
+Sorocaba;8;5;8;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;8;Novembro;Sexta-Feira;4
+S„o Bernardo do Campo;1;0;2;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;0;Novembro;Quarta-feira;1
+S„o JosÈ dos Campos;21;18;6;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;0;Dezembro;Domingo;2
+An·polis;56;14;36;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;N√O;PrivÈ Boulevard SuÌte Hotel;4;31;3;Dezembro;Segunda-feira;5
+Nova IguaÁu;29;11;14;Dez-Fev;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;6;Janeiro;Domingo;3
+Uberaba;11;5;8;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;1;Janeiro;Quinta-Feira;4
+Uberl‚ndia;19;12;167;Dez-Fev;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;9;Fevereiro;Segunda-feira;4
+Goi‚nia;17;9;16;Dez-Fev;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;-1806;Fevereiro;Segunda-feira;5
+Goi‚nia;43;8;20;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;1;MarÁo;Sexta-Feira;4
+Uberl‚ndia;12;8;3;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;2;MarÁo;S·bado;4
+Goi‚nia;15;14;7;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;9;Abril;TerÁa-feira;4
+Uberaba;16;13;16;Mar-Mai;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;6;Abril;Quarta-feira;3
+S„o Paulo;12;4;25;Mar-Mai;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;1;Maio;Sexta-Feira;3
+Curitiba;10;0;5;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;3;Maio;Domingo;4
+Goi‚nia;27;17;16;Jun-Ago;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;6;Junho;Quinta-Feira;3
+Uberl‚ndia;6;5;5;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;2;Junho;TerÁa-feira;4
+Uberaba;21;20;14;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;3;Julho;Quarta-feira;5
+Bela Vista;43;14;27;Jun-Ago;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;5;Julho;Quinta-Feira;4
+An·polis;97;31;37;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;8;Agosto;S·bado;4
+BrasÌlia;7;3;4;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;5;Agosto;Sexta-Feira;4
+BrasÌlia;11;9;6;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;0;Setembro;Sexta-Feira;3
+Goi‚nia;78;11;30;Set-Nov;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;2;Setembro;TerÁa-feira;4
+Uberaba;12;7;4;Set-Nov;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;5;Outubro;Segunda-feira;5
+Goi‚nia;27;11;5;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;2;Outubro;Segunda-feira;3
+Belo Horizonte;4;3;1;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;7;Novembro;Sexta-Feira;5
+Uberaba;27;9;8;Set-Nov;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;2;Novembro;Sexta-Feira;4
+Uberl‚ndia;12;3;7;Dez-Fev;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;4;Dezembro;S·bado;4
+Uberl‚ndia;21;16;48;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;L'acqua diRoma;4;29;12;Dezembro;Quinta-Feira;5
+BrasÌlia;34;17;30;Dez-Fev;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;8;Janeiro;Domingo;4
+Goi‚nia;12;6;1;Dez-Fev;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;2;Janeiro;Domingo;5
+Vila Velha ;79;39;51;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;5;Fevereiro;Quarta-feira;3
+BelÈm;18;10;16;Dez-Fev;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;2;Fevereiro;Quinta-Feira;3
+Uberl‚ndia;13;3;8;Mar-Mai;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;3;MarÁo;Quarta-feira;4
+BrasÌlia;14;4;9;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;MarÁo;Sexta-Feira;4
+Ribeir„o Preto;19;9;28;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;3;Abril;Sexta-Feira;5
+S„o Paulo ;88;15;103;Mar-Mai;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;3;Abril;Segunda-feira;4
+Cuiab·;8;4;0;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Maio;TerÁa-feira;4
+Recife;39;15;31;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Maio;Domingo;3
+BrasÌlia;130;41;61;Jun-Ago;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;3;Junho;TerÁa-feira;4
+Uberaba;79;78;105;Jun-Ago;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;7;Junho;Quarta-feira;4
+BrasÌlia;13;10;16;Jun-Ago;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;10;Julho;Quarta-feira;4
+BrasÌlia;18;6;17;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Julho;Segunda-feira;4
+Cuiab·;8;7;3;Jun-Ago;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Agosto;S·bado;5
+Uberaba;15;4;6;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;0;Agosto;Sexta-Feira;5
+Uberl‚ndia;27;0;9;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;0;Setembro;TerÁa-feira;1
+Uberaba;5;3;2;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;5;Setembro;Quarta-feira;5
+BrasÌlia;22;6;6;Set-Nov;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Outubro;TerÁa-feira;5
+Goi‚nia;5;3;11;Set-Nov;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Outubro;Quinta-Feira;2
+S„o Paulo;31;8;11;Set-Nov;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;1;Novembro;Domingo;4
+Palmas;33;8;8;Set-Nov;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;7;Novembro;S·bado;5
+BrasÌlia;10;6;11;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;4;Dezembro;S·bado;5
+BrasÌlia;12;3;3;Dez-Fev;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;Best Western Suites Le Jardin;4;15;4;Dezembro;Quinta-Feira;5
+Goi‚nia;50;14;24;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;7;Janeiro;Quarta-feira;5
+Goi‚nia;161;33;85;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Janeiro;Sexta-Feira;4
+S„o JosÈ do Rio Preto;153;38;81;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;10;Fevereiro;TerÁa-feira;5
+Uberl‚ndia;14;3;12;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;2;Fevereiro;Quinta-Feira;5
+Goi‚nia;31;12;10;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;4;MarÁo;Sexta-Feira;5
+Goi‚nia;15;10;29;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;9;MarÁo;Sexta-Feira;3
+Uberl‚ndia;5;5;4;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Abril;Quinta-Feira;5
+Goi‚nia;46;4;21;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;2;Abril;S·bado;4
+BrasÌlia;15;6;39;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;4;Maio;Domingo;1
+BrasÌlia;63;27;35;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;5;Maio;Quarta-feira;4
+Goi‚nia;17;15;13;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;2;Junho;Domingo;4
+Goi‚nia;25;22;36;Jun-Ago;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;9;Junho;TerÁa-feira;1
+Goi‚nia;14;8;4;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;1;Julho;Segunda-feira;5
+BrasÌlia;59;56;37;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;6;Julho;TerÁa-feira;3
+BrasÌlia;11;10;17;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Agosto;Sexta-Feira;5
+Uberl‚ndia;54;18;31;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;5;Agosto;Quarta-feira;4
+Goi‚nia;4;3;4;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Setembro;Segunda-feira;5
+Goi‚nia;10;7;7;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Setembro;TerÁa-feira;5
+Goi‚nia;14;6;7;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;11;Outubro;Domingo;5
+Goi‚nia;39;12;16;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;2;Outubro;Quinta-Feira;5
+Uberaba;35;24;43;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;4;Novembro;Domingo;5
+Uberaba;6;6;9;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;0;Novembro;Domingo;3
+Goi‚nia;23;7;2;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;3;Dezembro;Sexta-Feira;4
+Goi‚nia;48;21;67;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Ecologic Ville Resort & Spa by Vivence;5;34;13;Dezembro;Domingo;4
+Uberaba;16;9;14;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;3;Janeiro;Quinta-Feira;4
+Uberaba;12;6;3;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;1;Janeiro;Quinta-Feira;5
+Fortaleza;36;9;15;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;2;Fevereiro;S·bado;4
+BrasÌlia;127;40;80;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;8;Fevereiro;Quarta-feira;5
+Goi‚nia;12;5;1;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;1;MarÁo;Segunda-feira;5
+Goi‚nia;17;17;74;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;10;MarÁo;S·bado;5
+Ribeir„o Preto;23;7;21;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;7;Abril;Quinta-Feira;4
+Goi‚nia;102;17;45;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;2;Abril;Segunda-feira;5
+Curitiba;113;15;55;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;8;Maio;Quinta-Feira;5
+Goi‚nia;30;8;10;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;1;Maio;Quarta-feira;2
+Curitiba;24;24;24;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;7;Junho;Quarta-feira;2
+Ribeir„o Preto;15;5;18;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;3;Junho;Quarta-feira;5
+Goi‚nia;6;4;14;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;1;Julho;Quarta-feira;1
+Uberaba;3;3;0;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;7;Julho;TerÁa-feira;4
+Uberl‚ndia;41;10;56;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;4;Agosto;S·bado;5
+Goi‚nia;19;8;56;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;10;Agosto;Domingo;4
+BrasÌlia;18;9;10;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;1;Setembro;Quarta-feira;5
+MaceiÛ;6;6;7;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;7;Setembro;TerÁa-feira;5
+Goi‚nia;103;5;98;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;7;Outubro;Segunda-feira;5
+BrasÌlia;18;4;16;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;0;Outubro;Sexta-Feira;5
+Campo Grande;9;7;7;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;5;Novembro;Quarta-feira;5
+Goi‚nia;50;19;45;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;0;Novembro;Sexta-Feira;5
+Uberl‚ndia;4;3;8;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;8;Dezembro;TerÁa-feira;2
+Goi‚nia;7;3;8;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio Quente Resorts - Hotel Pousada;5;30;5;Dezembro;Domingo;5
+An·polis;28;23;31;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;4;Janeiro;Sexta-Feira;3
+Goi‚nia;32;6;11;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;10;Janeiro;Sexta-Feira;5
+Uberl‚ndia;4;0;4;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;9;Fevereiro;Sexta-Feira;5
+Goi‚nia;37;8;9;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;3;Fevereiro;TerÁa-feira;4
+Uberl‚ndia;10;3;7;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;6;MarÁo;Quarta-feira;5
+Uberl‚ndia;36;30;80;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;8;MarÁo;Sexta-Feira;5
+Goi‚nia;31;10;14;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;5;Abril;Domingo;4
+Uberl‚ndia;66;33;60;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;10;Abril;S·bado;5
+Osasco;17;4;8;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;0;Maio;S·bado;5
+BrasÌlia;57;20;71;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;0;Maio;Sexta-Feira;5
+Goi‚nia;42;8;22;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;6;Junho;Segunda-feira;4
+Goi‚nia;28;20;14;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;8;Junho;Sexta-Feira;3
+Salvador;19;8;10;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;3;Julho;Quarta-feira;4
+Goi‚nia;20;11;21;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;9;Julho;Sexta-Feira;5
+BrasÌlia;75;19;93;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;8;Agosto;Domingo;4
+Goi‚nia;91;16;26;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;3;Agosto;Quarta-feira;4
+BrasÌlia;52;48;78;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;8;Setembro;S·bado;3
+Goi‚nia;93;4;8;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;2;Setembro;S·bado;5
+Uberl‚ndia;9;3;15;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;1;Outubro;Quarta-feira;5
+Uberaba;5;3;9;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;2;Outubro;Quinta-Feira;5
+Luzi‚nia;37;7;10;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;0;Novembro;Domingo;5
+Porto Alegre;31;25;35;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;7;Novembro;Domingo;3
+Goi‚nia;6;4;4;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;7;Dezembro;Quinta-Feira;5
+Goi‚nia;252;55;113;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Golden Dolphin Grand Hotel;5;31;8;Dezembro;Segunda-feira;4
+Goi‚nia;164;48;82;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;4;Janeiro;S·bado;5
+Goi‚nia;5;3;9;Dez-Fev;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;4;Janeiro;TerÁa-feira;5
+Uberl‚ndia;7;5;20;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;3;Fevereiro;S·bado;4
+Goi‚nia;18;11;15;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;7;Fevereiro;TerÁa-feira;5
+Goi‚nia;20;13;16;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;6;MarÁo;Sexta-Feira;5
+Goi‚nia;21;5;12;Mar-Mai;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;8;MarÁo;Segunda-feira;4
+Goi‚nia;125;35;48;Mar-Mai;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;4;Abril;Domingo;5
+Goi‚nia;11;7;10;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;1;Abril;Segunda-feira;4
+Luzi‚nia;16;10;16;Mar-Mai;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;7;Maio;Segunda-feira;3
+BrasÌlia;19;5;5;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;3;Maio;Segunda-feira;5
+Goi‚nia;73;27;365;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;6;Junho;Quarta-feira;5
+Goi‚nia;5;4;4;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;11;Junho;Quarta-feira;5
+Goi‚nia;30;10;17;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;3;Julho;Segunda-feira;5
+Uberl‚ndia;7;4;10;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;3;Julho;Domingo;5
+Uberl‚ndia;67;46;99;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;6;Agosto;Domingo;5
+Cristalina;18;13;25;Jun-Ago;Sozinho;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;9;Agosto;S·bado;5
+Uberl‚ndia;12;7;11;Set-Nov;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;4;Setembro;Segunda-feira;2
+Uberl‚ndia;40;12;26;Set-Nov;Amigos;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;7;Setembro;S·bado;5
+Goi‚nia;142;17;31;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;3;Outubro;Segunda-feira;4
+BrasÌlia;8;4;16;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;7;Outubro;S·bado;5
+Campinas;15;9;3;Set-Nov;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;2;Novembro;Segunda-feira;5
+BrasÌlia;2;18;14;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;8;Novembro;Quarta-feira;5
+BrasÌlia;10;6;10;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;5;Dezembro;TerÁa-feira;5
+Goi‚nia;16;13;55;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM;Serra Park;5;27;9;Dezembro;TerÁa-feira;5
+BrasÌlia;21;7;13;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;10;Janeiro;TerÁa-feira;5
+S„o Paulo;69;58;41;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;5;Janeiro;S·bado;5
+Goi‚nia;33;13;8;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;5;Fevereiro;Quarta-feira;5
+Goi‚nia;1;0;2;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;0;Fevereiro;TerÁa-feira;5
+Goi‚nia;49;8;23;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;5;MarÁo;Segunda-feira;5
+Goi‚nia;775;52;255;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;2;MarÁo;Quarta-feira;3
+Manaus;16;7;6;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;7;Abril;Segunda-feira;4
+Goi‚nia;1;0;1;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;0;Abril;Quarta-feira;5
+Luzi‚nia;19;11;17;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;7;Maio;Sexta-Feira;4
+Porto Alegre;7;4;8;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;7;Maio;Domingo;5
+Goi‚nia;38;18;16;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;8;Junho;Domingo;5
+Goi‚nia;48;14;30;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;9;Junho;Quarta-feira;5
+Uberl‚ndia;136;20;55;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;3;Julho;Domingo;5
+Goi‚nia;26;8;1;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;6;Julho;Segunda-feira;4
+Feira de Santana;3;3;2;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;4;Agosto;Domingo;4
+Goi‚nia;78;17;24;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;5;Agosto;Segunda-feira;5
+BrasÌlia;24;18;12;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;0;Setembro;Quinta-Feira;5
+Campo Grande;2;0;15;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;1;Setembro;Segunda-feira;1
+Ribeir„o Preto;4;3;3;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;11;Outubro;Quinta-Feira;5
+Uberaba;11;7;17;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;2;Outubro;S·bado;5
+Curitiba;1;0;1;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;0;Novembro;Quarta-feira;2
+Uberaba;35;16;17;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;2;Novembro;TerÁa-feira;4
+Goi‚nia;110;19;76;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;2;Dezembro;TerÁa-feira;4
+Goi‚nia;53;25;24;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Hotel Taiyo;5;13;3;Dezembro;Domingo;5
+Piracicaba;320;45;102;Dez-Fev;NegÛcios;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;6;Janeiro;TerÁa-feira;3
+Goi‚nia;2;0;2;Dez-Fev;NegÛcios;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;1;Janeiro;S·bado;4
+Goi‚nia;26;6;12;Dez-Fev;FamÌlia;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;1;Fevereiro;Domingo;5
+Goi‚nia;4;4;0;Dez-Fev;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;2;Fevereiro;Segunda-feira;5
+Goi‚nia;9;9;6;Mar-Mai;Sozinho;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;1;MarÁo;Quarta-feira;2
+Goi‚nia;17;14;70;Mar-Mai;Amigos;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;10;MarÁo;Domingo;5
+Uberl‚ndia;3;0;1;Mar-Mai;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;1;Abril;TerÁa-feira;5
+Uberl‚ndia;14;0;4;Mar-Mai;FamÌlia;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;4;Abril;TerÁa-feira;2
+Goi‚nia;235;111;267;Mar-Mai;Amigos;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;9;Maio;Sexta-Feira;5
+Goi‚nia;59;9;21;Mar-Mai;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;3;Maio;Segunda-feira;5
+Goi‚nia;2;0;2;Jun-Ago;Amigos;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;0;Junho;Quarta-feira;5
+Goi‚nia;2;0;1;Jun-Ago;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;0;Junho;Quarta-feira;5
+Goi‚nia;21;18;53;Jun-Ago;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;11;Julho;Quarta-feira;5
+Goi‚nia;4;0;16;Jun-Ago;Amigos;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;0;Julho;Quinta-Feira;1
+Palmas;184;52;70;Jun-Ago;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;3;Agosto;Quarta-feira;5
+BrasÌlia;262;75;150;Jun-Ago;FamÌlia;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;2;Agosto;Segunda-feira;4
+Goi‚nia;69;11;17;Set-Nov;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;0;Setembro;Domingo;5
+Uberaba;92;12;27;Set-Nov;NegÛcios;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;2;Setembro;S·bado;4
+Goi‚nia;131;61;116;Set-Nov;FamÌlia;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;8;Outubro;Quinta-Feira;3
+MaceiÛ;25;10;16;Set-Nov;Amigos;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;8;Outubro;TerÁa-feira;5
+Uberl‚ndia;49;22;53;Set-Nov;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;5;Novembro;Domingo;3
+Goi‚nia;148;33;55;Set-Nov;NegÛcios;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;3;Novembro;Quarta-feira;4
+Uberl‚ndia;26;7;22;Dez-Fev;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;4;Dezembro;Quarta-feira;4
+Goi‚nia;13;4;1;Dez-Fev;Casais;SIM;N√O;N√O;N√O;SIM;SIM;IMG Hotel's Rio Quente;4,5;17;2;Dezembro;Quarta-feira;4
+Belo Horizonte;3;3;20;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Janeiro;TerÁa-feira;1
+Goi‚nia;46;12;87;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;3;Janeiro;TerÁa-feira;5
+BrasÌlia;127;40;81;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;8;Fevereiro;Quinta-Feira;4
+Goi‚nia;15;5;12;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;4;Fevereiro;Domingo;5
+Goi‚nia;16;14;23;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;7;MarÁo;Sexta-Feira;5
+Goi‚nia;113;38;27;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;1;MarÁo;TerÁa-feira;4
+BrasÌlia;7;5;5;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;7;Abril;Segunda-feira;3
+Contagem;73;32;99;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;10;Abril;Quinta-Feira;4
+Goi‚nia;35;12;3;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;2;Maio;Sexta-Feira;5
+BrasÌlia;139;20;86;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Maio;Segunda-feira;5
+BrasÌlia;28;12;30;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;2;Junho;S·bado;5
+Goi‚nia;34;8;26;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;4;Junho;TerÁa-feira;4
+Goi‚nia;4;3;5;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;3;Julho;Quinta-Feira;5
+Goi‚nia;32;11;14;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;3;Julho;Domingo;5
+BrasÌlia;9;3;4;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;1;Agosto;Quinta-Feira;5
+Goi‚nia;333;58;200;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;4;Agosto;Domingo;5
+Goi‚nia;29;11;15;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;6;Setembro;Segunda-feira;5
+BrasÌlia;85;43;68;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Setembro;Quarta-feira;5
+Goi‚nia;12;5;1;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Outubro;Sexta-Feira;5
+BrasÌlia;34;10;7;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;4;Outubro;Quinta-Feira;4
+S„o Paulo;13;7;8;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Novembro;Domingo;5
+Goi‚nia;5;5;14;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;5;Novembro;Domingo;5
+Goi‚nia;169;25;41;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;8;Dezembro;TerÁa-feira;5
+Goi‚nia;11;10;6;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Prive Riviera Park Hotel;5;21;7;Dezembro;TerÁa-feira;5
+Goi‚nia;4;3;2;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;6;Janeiro;Sexta-Feira;5
+Goi‚nia;50;39;48;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;10;Janeiro;Quinta-Feira;2
+An·polis;10;3;1;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;4;Fevereiro;TerÁa-feira;5
+Uberl‚ndia;7;4;4;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;1;Fevereiro;Sexta-Feira;5
+BrasÌlia;60;7;42;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;8;MarÁo;TerÁa-feira;5
+Palmas;92;49;18;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;5;MarÁo;Quinta-Feira;4
+Uberaba;106;37;58;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;3;Abril;Quarta-feira;4
+Uberl‚ndia;7;5;45;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;10;Abril;Segunda-feira;4
+Porto Alegre;37;31;38;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;9;Maio;Sexta-Feira;5
+Goi‚nia;70;25;19;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;3;Maio;Sexta-Feira;1
+Goi‚nia;9;3;4;Jun-Ago;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;1;Junho;Segunda-feira;5
+Goi‚nia;11;6;7;Jun-Ago;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;1;Junho;Segunda-feira;5
+Cristalina;39;18;9;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;4;Julho;Quinta-Feira;4
+BrasÌlia;10;0;9;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;1;Julho;Quarta-feira;5
+Goi‚nia;78;17;24;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;5;Agosto;Segunda-feira;4
+BrasÌlia;48;21;19;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;4;Agosto;Sexta-Feira;5
+Uberl‚ndia;112;34;41;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;7;Setembro;Domingo;5
+Goi‚nia;28;17;14;Set-Nov;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;2;Setembro;Quarta-feira;5
+BrasÌlia;11;3;16;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;2;Outubro;Quarta-feira;2
+Goi‚nia;9;5;11;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;9;Outubro;Quarta-feira;4
+Goi‚nia;4;4;1;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;0;Novembro;Quarta-feira;3
+An·polis;22;15;25;Set-Nov;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;6;Novembro;Segunda-feira;4
+Goi‚nia;42;11;36;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;7;Dezembro;Segunda-feira;5
+Uberaba;20;16;9;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Acqua Bella Thermas Hotel;3,5;13;7;Dezembro;TerÁa-feira;4
+Uberl‚ndia;160;34;88;Dez-Fev;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;6;Janeiro;S·bado;4
+Goi‚nia;372;78;169;Dez-Fev;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;4;Janeiro;Domingo;4
+Goi‚nia;84;18;36;Dez-Fev;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;4;Fevereiro;Quarta-feira;5
+Goi‚nia;21;13;20;Dez-Fev;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;5;Fevereiro;Quinta-Feira;5
+BrasÌlia;95;37;55;Mar-Mai;Amigos;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;6;MarÁo;TerÁa-feira;4
+Curitiba;118;107;131;Mar-Mai;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;10;MarÁo;Segunda-feira;5
+Uberl‚ndia;6;0;8;Mar-Mai;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;10;Abril;Quarta-feira;5
+Goi‚nia;60;4;31;Mar-Mai;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;2;Abril;TerÁa-feira;4
+Uberaba;275;79;339;Mar-Mai;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;7;Maio;Domingo;4
+Uberl‚ndia;46;39;42;Mar-Mai;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;6;Maio;Quarta-feira;4
+Goi‚nia;6;5;6;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;4;Junho;TerÁa-feira;5
+Uberaba;11;0;5;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;0;Junho;Quinta-Feira;5
+Goi‚nia;75;37;48;Jun-Ago;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;6;Julho;S·bado;5
+Santo AndrÈ;240;76;115;Jun-Ago;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;3;Julho;Segunda-feira;5
+Rio Verde;20;12;7;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;1;Agosto;Quarta-feira;5
+BelÈm;62;40;25;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;5;Agosto;Domingo;5
+FlorianÛpolis;88;19;58;Set-Nov;Amigos;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;1;Setembro;Quarta-feira;5
+Goi‚nia;6;3;5;Set-Nov;Amigos;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;0;Setembro;TerÁa-feira;5
+Belo Horizonte;18;9;8;Set-Nov;NegÛcios;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;7;Outubro;Segunda-feira;3
+An·polis;159;43;78;Set-Nov;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;4;Outubro;Quarta-feira;5
+Caxias do Sul;47;23;20;Set-Nov;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;1;Novembro;Quinta-Feira;4
+MaceiÛ;86;12;46;Set-Nov;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;5;Novembro;Domingo;4
+Goi‚nia;42;9;13;Dez-Fev;Casais;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;1;Dezembro;TerÁa-feira;5
+Curitiba;64;33;23;Dez-Fev;FamÌlia;SIM;SIM;N√O;N√O;SIM;SIM;Golden Dolphin Supreme;3,5;23;7;Dezembro;Quinta-Feira;4
+Goi‚nia;167;71;119;Dez-Fev;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;8;Janeiro;S·bado;5
+Goi‚nia;25;5;12;Dez-Fev;Amigos;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;8;Janeiro;Quinta-Feira;5
+BrasÌlia;12;12;6;Dez-Fev;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;4;Fevereiro;Sexta-Feira;3
+Goi‚nia;608;117;319;Dez-Fev;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Fevereiro;S·bado;5
+Goi‚nia;5;4;3;Mar-Mai;Amigos;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;8;MarÁo;Domingo;5
+Goi‚nia;26;17;34;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;7;MarÁo;Quinta-Feira;5
+Porto Alegre;11;5;9;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;7;Abril;Segunda-feira;5
+Goi‚nia;39;10;13;Mar-Mai;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;3;Abril;Quarta-feira;4
+S„o Paulo;1;0;3;Mar-Mai;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;0;Maio;Quinta-Feira;2
+Goi‚nia;108;20;22;Mar-Mai;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Maio;Quinta-Feira;3
+Bela Vista;119;20;46;Jun-Ago;Amigos;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;1;Junho;Domingo;5
+Goi‚nia;27;15;17;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;6;Junho;TerÁa-feira;3
+Curitiba;55;55;134;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Julho;Quarta-feira;5
+Uberl‚ndia;7;3;7;Jun-Ago;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;3;Julho;Sexta-Feira;4
+Uberl‚ndia;3;3;2;Jun-Ago;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;0;Agosto;Quarta-feira;3
+Goi‚nia;11;3;19;Jun-Ago;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;6;Agosto;Segunda-feira;4
+Uberaba;27;15;16;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Setembro;Domingo;5
+Goi‚nia;13;4;6;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;0;Setembro;Quarta-feira;5
+BrasÌlia;19;11;14;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Outubro;Domingo;3
+Uberl‚ndia;38;12;17;Set-Nov;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;7;Outubro;Sexta-Feira;5
+Goi‚nia;167;71;119;Set-Nov;Casais;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;8;Novembro;Domingo;4
+Goi‚nia;28;6;9;Set-Nov;NegÛcios;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;3;Novembro;TerÁa-feira;3
+Uberl‚ndia;9;8;5;Dez-Fev;FamÌlia;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;4;Dezembro;Domingo;5
+Goi‚nia;13;4;4;Dez-Fev;Amigos;SIM;SIM;SIM;SIM;SIM;SIM; Hotel CTC;3;23;5;Dezembro;TerÁa-feira;5
+Goi‚nia;65;24;72;Dez-Fev;NegÛcios;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;6;Janeiro;Segunda-feira;3
+Goi‚nia;8;3;3;Dez-Fev;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;3;Janeiro;Quinta-Feira;5
+BrasÌlia;61;13;26;Dez-Fev;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;4;Fevereiro;Domingo;2
+Goi‚nia;3;3;8;Dez-Fev;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;1;Fevereiro;S·bado;2
+Goi‚nia;66;13;21;Mar-Mai;Amigos;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;9;MarÁo;Sexta-Feira;5
+FlorianÛpolis;9;7;4;Mar-Mai;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;2;MarÁo;TerÁa-feira;5
+FlorianÛpolis;82;14;61;Mar-Mai;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;1;Abril;Quarta-feira;3
+Uberl‚ndia;113;48;33;Mar-Mai;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;4;Abril;Domingo;3
+Goi‚nia;11;8;12;Mar-Mai;Amigos;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;6;Maio;Domingo;3
+Uberl‚ndia;2;1;1;Mar-Mai;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;3;Maio;TerÁa-feira;3
+Goi‚nia;31;11;24;Jun-Ago;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;2;Junho;Quarta-feira;5
+Uberaba;32;12;22;Jun-Ago;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;5;Junho;Quarta-feira;4
+Goi‚nia;56;7;25;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;7;Julho;Domingo;3
+Uberl‚ndia;45;6;22;Jun-Ago;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;3;Julho;Quinta-Feira;5
+Goi‚nia;17;4;4;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;0;Agosto;Domingo;4
+Goi‚nia;23;23;11;Jun-Ago;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;1;Agosto;Domingo;5
+Uberl‚ndia;56;18;24;Set-Nov;Amigos;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;4;Setembro;S·bado;5
+Goi‚nia;290;263;300;Set-Nov;NegÛcios;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;10;Setembro;S·bado;4
+Uberaba;26;7;9;Set-Nov;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;0;Outubro;Sexta-Feira;4
+S„o Paulo;116;44;53;Set-Nov;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;5;Outubro;S·bado;4
+Maring·;14;5;15;Set-Nov;NegÛcios;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;5;Novembro;Quinta-Feira;4
+Goi‚nia;13;7;1;Set-Nov;NegÛcios;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;4;Novembro;Domingo;5
+Goi‚nia;20;9;25;Dez-Fev;Casais;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;8;Dezembro;TerÁa-feira;4
+An·polis;3;3;3;Dez-Fev;FamÌlia;SIM;SIM;N√O;N√O;N√O;SIM; Hotel Parque Das Primaveras;3;19;2;Dezembro;Quarta-feira;5
+Goi‚nia;17;3;12;Dez-Fev;Amigos;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;2;Janeiro;Segunda-feira;4
+Uberaba;21;11;13;Dez-Fev;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Janeiro;Domingo;5
+Goi‚nia;60;11;33;Dez-Fev;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;3;Fevereiro;Quinta-Feira;5
+Uberl‚ndia;12;4;15;Dez-Fev;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;11;Fevereiro;Segunda-feira;5
+Goi‚nia;27;12;51;Mar-Mai;Amigos;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;MarÁo;TerÁa-feira;5
+Goi‚nia;34;12;35;Mar-Mai;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;3;MarÁo;TerÁa-feira;4
+Uberl‚ndia;69;22;38;Mar-Mai;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;6;Abril;Quinta-Feira;5
+Goi‚nia;16;4;7;Mar-Mai;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Abril;S·bado;5
+Uberaba;26;5;5;Mar-Mai;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;1;Maio;Quinta-Feira;4
+Goi‚nia;54;10;15;Mar-Mai;NegÛcios;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;5;Maio;TerÁa-feira;4
+BrasÌlia;35;17;27;Jun-Ago;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;6;Junho;TerÁa-feira;5
+S„o Paulo;23;12;7;Jun-Ago;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;7;Junho;S·bado;5
+BrasÌlia;6;3;14;Jun-Ago;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;3;Julho;Domingo;5
+Goi‚nia;27;8;16;Jun-Ago;Amigos;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Julho;Quinta-Feira;4
+Goi‚nia;41;8;14;Jun-Ago;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Agosto;Quarta-feira;3
+Uberl‚ndia;12;4;6;Jun-Ago;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;2;Agosto;Segunda-feira;5
+Goi‚nia;14;3;14;Set-Nov;Amigos;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;6;Setembro;TerÁa-feira;5
+Goi‚nia;415;162;265;Set-Nov;NegÛcios;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;8;Setembro;Domingo;4
+Ribeir„o Preto;76;27;32;Set-Nov;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;6;Outubro;Quinta-Feira;3
+BrasÌlia;24;12;30;Set-Nov;Casais;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Outubro;Segunda-feira;4
+Joinville;23;9;23;Set-Nov;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;4;Novembro;Segunda-feira;3
+Goi‚nia;182;24;47;Set-Nov;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;2;Novembro;Domingo;4
+Goi‚nia;289;28;133;Dez-Fev;FamÌlia;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;5;Dezembro;TerÁa-feira;4
+Uberl‚ndia;101;35;46;Dez-Fev;Amigos;SIM;SIM;SIM;N√O;N√O;SIM;Hotel Hot Star;3,5;23;5;Dezembro;S·bado;5
+Ribeir„o Preto;31;11;20;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;2;Janeiro;Sexta-Feira;4
+Goi‚nia;20;6;9;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;0;Janeiro;Quarta-feira;5
+Goi‚nia;60;16;15;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;5;Fevereiro;S·bado;4
+An·polis;1;0;2;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;0;Fevereiro;Domingo;5
+Goi‚nia;9;3;13;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;2;MarÁo;Quinta-Feira;3
+Goi‚nia;19;7;5;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;5;MarÁo;Quarta-feira;5
+BelÈm;116;78;206;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;9;Abril;Domingo;5
+Uberaba;22;13;26;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;2;Abril;Sexta-Feira;4
+Uberaba;83;10;26;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;1;Maio;TerÁa-feira;4
+BrasÌlia;20;3;9;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;0;Maio;Segunda-feira;5
+Goi‚nia;7;5;6;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;1;Junho;Segunda-feira;5
+Goi‚nia;95;34;46;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;6;Junho;Domingo;5
+Uberaba;15;6;19;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;4;Julho;Quarta-feira;4
+BrasÌlia;13;7;12;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;5;Julho;Domingo;4
+Uberl‚ndia;19;8;24;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;10;Agosto;Quarta-feira;5
+BrasÌlia;21;6;15;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;3;Agosto;S·bado;5
+BrasÌlia;56;11;14;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;5;Setembro;Sexta-Feira;5
+BrasÌlia;29;7;15;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;7;Setembro;Quinta-Feira;5
+Porto Alegre;20;0;8;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;2;Outubro;Sexta-Feira;5
+BrasÌlia;39;20;31;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;8;Outubro;Quinta-Feira;4
+Fortaleza;9;6;3;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;5;Novembro;S·bado;5
+Uberaba;43;38;29;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;4;Novembro;S·bado;5
+Luzi‚nia;16;10;11;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;9;Dezembro;Quinta-Feira;5
+Goi‚nia;6;6;12;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Rio das Pedras Thermas Hotel;5;41;10;Dezembro;Quarta-feira;4
+Uberaba;16;6;3;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;3;Janeiro;S·bado;4
+Goi‚nia;15;3;13;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;5;Janeiro;Quinta-Feira;5
+Goi‚nia;30;6;26;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;3;Fevereiro;TerÁa-feira;4
+Goi‚nia;41;9;111;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;1;Fevereiro;Sexta-Feira;5
+S„o Paulo;44;35;53;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;6;MarÁo;TerÁa-feira;5
+Goi‚nia;30;9;17;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;0;MarÁo;TerÁa-feira;2
+Ribeir„o Preto;23;10;18;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;4;Abril;Segunda-feira;5
+Salvador;3;0;8;Mar-Mai;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;3;Abril;TerÁa-feira;2
+BrasÌlia;12;6;16;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;3;Maio;Sexta-Feira;3
+BrasÌlia;15;6;17;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;1;Maio;Quinta-Feira;5
+BrasÌlia;5;0;5;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;0;Junho;Quarta-feira;5
+Goi‚nia;32;5;11;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;6;Junho;Domingo;4
+Goi‚nia;28;5;23;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;5;Julho;Sexta-Feira;5
+Aparecida de Goi‚nia;77;18;48;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;10;Julho;S·bado;4
+Goi‚nia;11;8;2;Jun-Ago;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;0;Agosto;Segunda-feira;4
+Rio de Janeiro;102;25;37;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;6;Agosto;Domingo;5
+Ribeir„o Preto;13;3;2;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;6;Setembro;TerÁa-feira;5
+Goi‚nia;62;13;31;Set-Nov;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;2;Setembro;TerÁa-feira;4
+BrasÌlia;26;22;42;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;5;Outubro;Domingo;5
+BrasÌlia;13;6;12;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;1;Outubro;S·bado;4
+BrasÌlia;26;18;43;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;4;Novembro;Segunda-feira;5
+Uberl‚ndia;17;10;39;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;3;Novembro;S·bado;5
+S„o Paulo;4;4;1;Dez-Fev;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;1;Dezembro;Segunda-feira;4
+Bela Vista;20;18;19;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍ;5;40;4;Dezembro;Sexta-Feira;2
+Goi‚nia;14;3;7;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;7;Janeiro;S·bado;4
+Uberl‚ndia;19;3;12;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;1;Janeiro;Quarta-feira;5
+Goi‚nia;4;4;2;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;1;Fevereiro;Quarta-feira;2
+Goi‚nia;116;12;43;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;4;Fevereiro;TerÁa-feira;4
+Goi‚nia;121;13;59;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;9;MarÁo;TerÁa-feira;2
+Goi‚nia;14;7;6;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;2;MarÁo;Sexta-Feira;5
+Goi‚nia;56;16;54;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;9;Abril;TerÁa-feira;4
+Uberl‚ndia;73;4;39;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;3;Abril;Segunda-feira;3
+Goi‚nia;9;5;4;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;6;Maio;Quinta-Feira;5
+Goi‚nia;137;42;51;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;5;Maio;Domingo;3
+Uberaba;30;12;38;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;4;Junho;S·bado;5
+Campinas;130;19;49;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;6;Junho;Domingo;3
+Goi‚nia;50;15;23;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;3;Julho;Sexta-Feira;4
+BrasÌlia;22;9;11;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;3;Julho;Quarta-feira;4
+Campo Grande;85;37;65;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;4;Agosto;Sexta-Feira;5
+Goi‚nia;73;7;26;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;3;Agosto;Quinta-Feira;5
+Goi‚nia;20;10;27;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;2;Setembro;Quinta-Feira;4
+Uberl‚ndia;13;6;13;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;2;Setembro;TerÁa-feira;5
+Uberl‚ndia;18;3;10;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;2;Outubro;Segunda-feira;2
+Goi‚nia;6;4;6;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;0;Outubro;S·bado;5
+Goi‚nia;48;8;25;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;6;Novembro;Segunda-feira;4
+Goi‚nia;24;3;5;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;0;Novembro;Domingo;5
+Uberl‚ndia;123;26;63;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;4;Dezembro;S·bado;5
+Goi‚nia;24;7;6;Dez-Fev;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;diRoma Resort;4;30;1;Dezembro;Quinta-Feira;4
+Uberl‚ndia;20;13;17;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;Janeiro;Segunda-feira;4
+Goi‚nia;15;3;4;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;7;Janeiro;TerÁa-feira;3
+ItajaÌ;189;72;129;Dez-Fev;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;3;Fevereiro;Sexta-Feira;4
+Goi‚nia;25;19;27;Dez-Fev;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;8;Fevereiro;Segunda-feira;3
+Goi‚nia;33;11;12;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;MarÁo;Quarta-feira;5
+Goi‚nia;14;7;13;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;MarÁo;Quinta-Feira;5
+Goi‚nia;38;22;47;Mar-Mai;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;Abril;Segunda-feira;4
+Campo Grande;169;43;85;Mar-Mai;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;12;Abril;Domingo;4
+Goi‚nia;20;17;21;Mar-Mai;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;Maio;Domingo;3
+Goi‚nia;17;10;18;Mar-Mai;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;3;Maio;TerÁa-feira;4
+Goi‚nia;96;47;161;Jun-Ago;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;11;Junho;Segunda-feira;4
+Goi‚nia;38;13;11;Jun-Ago;NegÛcios;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;5;Junho;Domingo;3
+S„o Paulo;12;11;9;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;6;Julho;Segunda-feira;4
+Goi‚nia;9;8;1;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;6;Julho;Segunda-feira;5
+Goi‚nia;23;21;22;Jun-Ago;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;7;Agosto;Quarta-feira;3
+Goi‚nia;21;6;3;Jun-Ago;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;5;Agosto;TerÁa-feira;4
+Goi‚nia;30;27;19;Set-Nov;Sozinho;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;6;Setembro;Sexta-Feira;5
+Goi‚nia;63;16;59;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;11;Setembro;Quarta-feira;3
+BrasÌlia;35;3;25;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;1;Outubro;Segunda-feira;5
+BrasÌlia;15;4;8;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;1;Outubro;Domingo;5
+Uberl‚ndia;50;13;29;Set-Nov;Casais;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;8;Novembro;Quinta-Feira;4
+Goi‚nia;154;23;31;Set-Nov;Amigos;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;4;Novembro;Quinta-Feira;4
+Goi‚nia;9;6;5;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;9;Dezembro;Quarta-feira;2
+Goi‚nia;20;19;112;Dez-Fev;FamÌlia;SIM;SIM;N√O;SIM;SIM;SIM;Pousada do IpÍs Thermas Resort;4;24;5;Dezembro;TerÁa-feira;4
