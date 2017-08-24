@@ -1,17 +1,24 @@
 import os
+from sklearn.preprocessing import MultiLabelBinarizer
 
 
 class Parser:
 
     WEEKDAY = 17
     MONTH = 16
+    PERIOD = 4
+    CATEGORIES = ['Casais', 'Família', 'Amigos', 'Negócios', 'Sozinho']
 
-    def __init__(self, path):
 
+    def __init__(self, path, separator=','):
+
+        self._multi_label = MultiLabelBinarizer()
+        self._multi_label.fit([set([x]) for x in self.CATEGORIES])
         if os.path.exists(path):
             self.path = path
-            self.header = next(self._read_lines_()).split(';')
-            self.number_columns = len(self.header)
+            self.header = next(self._read_lines_()).split(',')
+            self._number_columns = len(self.header)
+            self.separator = separator
 
         else:
             raise OSError('file not found')
@@ -20,7 +27,7 @@ class Parser:
         """ Read each line from file and return when
         called by a iterator
         """
-        with open(self.path, 'r', encoding='latin-1') as data_file:
+        with open(self.path, 'r') as data_file:
             while True:
                 line = data_file.readline()
                 if not line:
@@ -41,14 +48,18 @@ class Parser:
 
         return data
 
+    def get_multi_label(self):
+        return self._multi_label
+
     def _process_data_(self, columns):
         """Transform brute data into a useful data"""
-        if self.number_columns == len(columns):
+        if self._number_columns == len(columns):
             self._convert_yesno_(columns)
             self._convert_weekday_(columns)
             self._convert_month_(columns)
             self._split_period_(columns)
             self._switch_categories_(columns)
+            self._transform_in_int_(columns)
         else:
             raise Exception()
 
@@ -75,17 +86,44 @@ class Parser:
         return columns
 
     def _split_period_(self, columns):
-        # TODO: split periods from ShortMont-ShortMont to
-        # two columns with number of each month 1,0
-        pass
+        """Tranform a columns in format ShortMonth - ShortMonth into
+        int month, int month
+        """
+        periods = columns[4].split('-')
+        columns[4] = DateConvert.shortmonth_to_int(periods[0])
+        columns.insert(4, DateConvert.shortmonth_to_int(periods[1]))
+        return columns
 
     def _switch_categories_(self, columns):
-        # TODO: convert the Negócios, Casais... categories into thruth table
-        # or numbers
-        pass
+        """Switch the categories from CATEGORIES constant to a Binary array
+        in format [ 0, 0, 0, 0, 0 ]
+        """
+        idx = -1
+        for category in self.CATEGORIES:
+            if category in columns:
+                idx = columns.index(category)
+                break
+
+        binary = self._multi_label.transform([{columns[idx]}]).flatten()
+        columns.pop(idx)
+        for i, value in enumerate(binary):
+            columns.insert(idx+i, value)
+
+        return columns
 
     def _separate_coluns_(self, line):
-        return line.split(';')
+        """Separate a line with any separator and remove the \\n from end
+        of line
+        The default separator is ','
+        """
+
+        return line.replace('\n','').split(self.separator)
+
+    def _transform_in_int_(self, columns):
+        for i, field in enumerate(columns):
+            if isinstance(field, str) and field.isdigit():
+                columns[i] = int(field)
+        return columns
 
 
 class DateConvert:
@@ -129,15 +167,17 @@ def mostra_tabela(lista_registros):
         for campo in registro:
             print(campo)
 
+if __name__ == '__main__':
+    print(Parser('AM_RevisoesHoteisCaldas.csv').get_data())
 
 # with open('AM_RevisoesHoteisCaldas.csv', 'r') as f:
 #     reader = f.readline()
-#     campos_tabela = reader.split(';')
+#     campos_tabela = reader.split(',')
 #     reader = f.readline()
 #     lista_registros = []
 #     colunas = len(campos_tabela)
 #     for reader in f:
-#         registro = reader.split(';')
+#         registro = reader.split(',')
 #         if(len(registro) == colunas):
 #             lista_registros.append(registro)
 # Ative os 4 se quiser ver um registro só #################
@@ -147,10 +187,10 @@ def mostra_tabela(lista_registros):
 # pause()
 # mostra_tabela(lista_registros)
 
-import pandas as pd
-def le_arquivo():
-    dataset = pd.read_csv('AM_RevisoesHoteisCaldas.csv')
-    x = dataset.iloc[:, :-1].values
-    y = dataset.iloc[:, -1].values
-    
-    print(x)
+# import pandas as pd
+# def le_arquivo():
+#     dataset = pd.read_csv('AM_RevisoesHoteisCaldas.csv')
+#     x = dataset.iloc[:, :-1].values
+#     y = dataset.iloc[:, -1].values
+#     
+#     print(x)
