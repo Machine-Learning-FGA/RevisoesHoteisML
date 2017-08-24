@@ -38,14 +38,16 @@ class Parser:
         and do some processament in each line"""
 
         data = []
+        label = []
         lines = self._read_lines_()
         next(lines)
         for line in lines:
             columns = self._separate_coluns_(line)
-            data_array = self._process_data_(columns)
+            data_array, data_label = self._process_data_(columns)
             data.append(data_array)
+            label.append(data_label)
 
-        return data
+        return data, label
 
     def get_multi_label(self):
         return self._multi_label
@@ -60,10 +62,11 @@ class Parser:
             self._switch_categories_(columns)
             self._transform_in_int_(columns)
         else:
-            print(self.number_columns, len(columns))
+            print(self._number_columns, len(columns))
             # raise Exception()
+        label = columns.pop()
 
-        return columns
+        return columns, label
 
     def _convert_yesno_(self, columns):
         """Simple parser to
@@ -100,7 +103,6 @@ class Parser:
         """
         idx = -1
         for category in self.CATEGORIES:
-        return line.split(',')
             if category in columns:
                 idx = columns.index(category)
                 break
