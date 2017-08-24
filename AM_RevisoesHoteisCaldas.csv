@@ -239,30 +239,30 @@ Curitiba,1,0,1,Set-Nov,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Hotel Taiyo,5,13,0,Novemb
 Uberaba,35,16,17,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Novembro,Terça-feira,4
 Goiânia,110,19,76,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Hotel Taiyo,5,13,2,Dezembro,Terça-feira,4
 Goiânia,53,25,24,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Hotel Taiyo,5,13,3,Dezembro,Domingo,5
-Piracicaba,320,45,102,Dez-Fev,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,6,Janeiro,Terça-feira,3
-Goiânia,2,0,2,Dez-Fev,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,1,Janeiro,Sábado,4
-Goiânia,26,6,12,Dez-Fev,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,1,Fevereiro,Domingo,5
-Goiânia,4,4,0,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,2,Fevereiro,Segunda-feira,5
-Goiânia,9,9,6,Mar-Mai,Sozinho,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,1,Março,Quarta-feira,2
-Goiânia,17,14,70,Mar-Mai,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,10,Março,Domingo,5
-Uberlândia,3,0,1,Mar-Mai,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,1,Abril,Terça-feira,5
-Uberlândia,14,0,4,Mar-Mai,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,4,Abril,Terça-feira,2
-Goiânia,235,111,267,Mar-Mai,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,9,Maio,Sexta-Feira,5
-Goiânia,59,9,21,Mar-Mai,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,3,Maio,Segunda-feira,5
-Goiânia,2,0,2,Jun-Ago,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,0,Junho,Quarta-feira,5
-Goiânia,2,0,1,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,0,Junho,Quarta-feira,5
-Goiânia,21,18,53,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,11,Julho,Quarta-feira,5
-Goiânia,4,0,16,Jun-Ago,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,0,Julho,Quinta-Feira,1
-Palmas,184,52,70,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,3,Agosto,Quarta-feira,5
-Brasília,262,75,150,Jun-Ago,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,2,Agosto,Segunda-feira,4
-Goiânia,69,11,17,Set-Nov,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,0,Setembro,Domingo,5
-Uberaba,92,12,27,Set-Nov,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,2,Setembro,Sábado,4
-Goiânia,131,61,116,Set-Nov,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,8,Outubro,Quinta-Feira,3
-Maceió,25,10,16,Set-Nov,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,8,Outubro,Terça-feira,5
-Uberlândia,49,22,53,Set-Nov,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,5,Novembro,Domingo,3
-Goiânia,148,33,55,Set-Nov,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,3,Novembro,Quarta-feira,4
-Uberlândia,26,7,22,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,4,Dezembro,Quarta-feira,4
-Goiânia,13,4,1,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4,17,2,Dezembro,Quarta-feira,4
+Piracicaba,320,45,102,Dez-Fev,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,6,Janeiro,Terça-feira,3
+Goiânia,2,0,2,Dez-Fev,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Janeiro,Sábado,4
+Goiânia,26,6,12,Dez-Fev,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Fevereiro,Domingo,5
+Goiânia,4,4,0,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Fevereiro,Segunda-feira,5
+Goiânia,9,9,6,Mar-Mai,Sozinho,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Março,Quarta-feira,2
+Goiânia,17,14,70,Mar-Mai,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,10,Março,Domingo,5
+Uberlândia,3,0,1,Mar-Mai,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,1,Abril,Terça-feira,5
+Uberlândia,14,0,4,Mar-Mai,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,4,Abril,Terça-feira,2
+Goiânia,235,111,267,Mar-Mai,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,9,Maio,Sexta-Feira,5
+Goiânia,59,9,21,Mar-Mai,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Maio,Segunda-feira,5
+Goiânia,2,0,2,Jun-Ago,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Junho,Quarta-feira,5
+Goiânia,2,0,1,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Junho,Quarta-feira,5
+Goiânia,21,18,53,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,11,Julho,Quarta-feira,5
+Goiânia,4,0,16,Jun-Ago,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Julho,Quinta-Feira,1
+Palmas,184,52,70,Jun-Ago,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Agosto,Quarta-feira,5
+Brasília,262,75,150,Jun-Ago,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Agosto,Segunda-feira,4
+Goiânia,69,11,17,Set-Nov,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,0,Setembro,Domingo,5
+Uberaba,92,12,27,Set-Nov,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Setembro,Sábado,4
+Goiânia,131,61,116,Set-Nov,Família,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,8,Outubro,Quinta-Feira,3
+Maceió,25,10,16,Set-Nov,Amigos,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,8,Outubro,Terça-feira,5
+Uberlândia,49,22,53,Set-Nov,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,5,Novembro,Domingo,3
+Goiânia,148,33,55,Set-Nov,Negócios,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,3,Novembro,Quarta-feira,4
+Uberlândia,26,7,22,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,4,Dezembro,Quarta-feira,4
+Goiânia,13,4,1,Dez-Fev,Casais,SIM,NÃO,NÃO,NÃO,SIM,SIM,IMG Hotel's Rio Quente,4.5,17,2,Dezembro,Quarta-feira,4
 Belo Horizonte,3,3,20,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Janeiro,Terça-feira,1
 Goiânia,46,12,87,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,3,Janeiro,Terça-feira,5
 Brasília,127,40,81,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,8,Fevereiro,Quinta-Feira,4
@@ -287,54 +287,54 @@ São Paulo,13,7,8,Set-Nov,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hot
 Goiânia,5,5,14,Set-Nov,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,5,Novembro,Domingo,5
 Goiânia,169,25,41,Dez-Fev,Amigos,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,8,Dezembro,Terça-feira,5
 Goiânia,11,10,6,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Prive Riviera Park Hotel,5,21,7,Dezembro,Terça-feira,5
-Goiânia,4,3,2,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,6,Janeiro,Sexta-Feira,5
-Goiânia,50,39,48,Dez-Fev,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,10,Janeiro,Quinta-Feira,2
-Anápolis,10,3,1,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,4,Fevereiro,Terça-feira,5
-Uberlândia,7,4,4,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,1,Fevereiro,Sexta-Feira,5
-Brasília,60,7,42,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,8,Março,Terça-feira,5
-Palmas,92,49,18,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,5,Março,Quinta-Feira,4
-Uberaba,106,37,58,Mar-Mai,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,3,Abril,Quarta-feira,4
-Uberlândia,7,5,45,Mar-Mai,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,10,Abril,Segunda-feira,4
-Porto Alegre,37,31,38,Mar-Mai,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,9,Maio,Sexta-Feira,5
-Goiânia,70,25,19,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,3,Maio,Sexta-Feira,1
-Goiânia,9,3,4,Jun-Ago,Amigos,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,1,Junho,Segunda-feira,5
-Goiânia,11,6,7,Jun-Ago,Sozinho,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,1,Junho,Segunda-feira,5
-Cristalina,39,18,9,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,4,Julho,Quinta-Feira,4
-Brasília,10,0,9,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,1,Julho,Quarta-feira,5
-Goiânia,78,17,24,Jun-Ago,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,5,Agosto,Segunda-feira,4
-Brasília,48,21,19,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,4,Agosto,Sexta-Feira,5
-Uberlândia,112,34,41,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,7,Setembro,Domingo,5
-Goiânia,28,17,14,Set-Nov,Sozinho,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,2,Setembro,Quarta-feira,5
-Brasília,11,3,16,Set-Nov,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,2,Outubro,Quarta-feira,2
-Goiânia,9,5,11,Set-Nov,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,9,Outubro,Quarta-feira,4
-Goiânia,4,4,1,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,0,Novembro,Quarta-feira,3
-Anápolis,22,15,25,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,6,Novembro,Segunda-feira,4
-Goiânia,42,11,36,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,7,Dezembro,Segunda-feira,5
-Uberaba,20,16,9,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3,13,7,Dezembro,Terça-feira,4
-Uberlândia,160,34,88,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,6,Janeiro,Sábado,4
-Goiânia,372,78,169,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,4,Janeiro,Domingo,4
-Goiânia,84,18,36,Dez-Fev,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,4,Fevereiro,Quarta-feira,5
-Goiânia,21,13,20,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,5,Fevereiro,Quinta-Feira,5
-Brasília,95,37,55,Mar-Mai,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,6,Março,Terça-feira,4
-Curitiba,118,107,131,Mar-Mai,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,10,Março,Segunda-feira,5
-Uberlândia,6,0,8,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,10,Abril,Quarta-feira,5
-Goiânia,60,4,31,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,2,Abril,Terça-feira,4
-Uberaba,275,79,339,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,7,Maio,Domingo,4
-Uberlândia,46,39,42,Mar-Mai,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,6,Maio,Quarta-feira,4
-Goiânia,6,5,6,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,4,Junho,Terça-feira,5
-Uberaba,11,0,5,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,0,Junho,Quinta-Feira,5
-Goiânia,75,37,48,Jun-Ago,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,6,Julho,Sábado,5
-Santo André,240,76,115,Jun-Ago,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,3,Julho,Segunda-feira,5
-Rio Verde,20,12,7,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,1,Agosto,Quarta-feira,5
-Belém,62,40,25,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,5,Agosto,Domingo,5
-FloriAnápolis,88,19,58,Set-Nov,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,1,Setembro,Quarta-feira,5
-Goiânia,6,3,5,Set-Nov,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,0,Setembro,Terça-feira,5
-Belo Horizonte,18,9,8,Set-Nov,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,7,Outubro,Segunda-feira,3
-Anápolis,159,43,78,Set-Nov,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,4,Outubro,Quarta-feira,5
-Caxias do Sul,47,23,20,Set-Nov,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,1,Novembro,Quinta-Feira,4
-Maceió,86,12,46,Set-Nov,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,5,Novembro,Domingo,4
-Goiânia,42,9,13,Dez-Fev,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,1,Dezembro,Terça-feira,5
-Curitiba,64,33,23,Dez-Fev,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3,23,7,Dezembro,Quinta-Feira,4
+Goiânia,4,3,2,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,6,Janeiro,Sexta-Feira,5
+Goiânia,50,39,48,Dez-Fev,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,10,Janeiro,Quinta-Feira,2
+Anápolis,10,3,1,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Fevereiro,Terça-feira,5
+Uberlândia,7,4,4,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Fevereiro,Sexta-Feira,5
+Brasília,60,7,42,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,8,Março,Terça-feira,5
+Palmas,92,49,18,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,5,Março,Quinta-Feira,4
+Uberaba,106,37,58,Mar-Mai,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,3,Abril,Quarta-feira,4
+Uberlândia,7,5,45,Mar-Mai,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,10,Abril,Segunda-feira,4
+Porto Alegre,37,31,38,Mar-Mai,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,9,Maio,Sexta-Feira,5
+Goiânia,70,25,19,Mar-Mai,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,3,Maio,Sexta-Feira,1
+Goiânia,9,3,4,Jun-Ago,Amigos,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Junho,Segunda-feira,5
+Goiânia,11,6,7,Jun-Ago,Sozinho,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Junho,Segunda-feira,5
+Cristalina,39,18,9,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Julho,Quinta-Feira,4
+Brasília,10,0,9,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,1,Julho,Quarta-feira,5
+Goiânia,78,17,24,Jun-Ago,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,5,Agosto,Segunda-feira,4
+Brasília,48,21,19,Jun-Ago,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,4,Agosto,Sexta-Feira,5
+Uberlândia,112,34,41,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Setembro,Domingo,5
+Goiânia,28,17,14,Set-Nov,Sozinho,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,2,Setembro,Quarta-feira,5
+Brasília,11,3,16,Set-Nov,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,2,Outubro,Quarta-feira,2
+Goiânia,9,5,11,Set-Nov,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,9,Outubro,Quarta-feira,4
+Goiânia,4,4,1,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,0,Novembro,Quarta-feira,3
+Anápolis,22,15,25,Set-Nov,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,6,Novembro,Segunda-feira,4
+Goiânia,42,11,36,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Dezembro,Segunda-feira,5
+Uberaba,20,16,9,Dez-Fev,Casais,SIM,SIM,NÃO,SIM,SIM,SIM,Acqua Bella Thermas Hotel,3.5,13,7,Dezembro,Terça-feira,4
+Uberlândia,160,34,88,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Janeiro,Sábado,4
+Goiânia,372,78,169,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Janeiro,Domingo,4
+Goiânia,84,18,36,Dez-Fev,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Fevereiro,Quarta-feira,5
+Goiânia,21,13,20,Dez-Fev,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Fevereiro,Quinta-Feira,5
+Brasília,95,37,55,Mar-Mai,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Março,Terça-feira,4
+Curitiba,118,107,131,Mar-Mai,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,10,Março,Segunda-feira,5
+Uberlândia,6,0,8,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,10,Abril,Quarta-feira,5
+Goiânia,60,4,31,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,2,Abril,Terça-feira,4
+Uberaba,275,79,339,Mar-Mai,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Maio,Domingo,4
+Uberlândia,46,39,42,Mar-Mai,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Maio,Quarta-feira,4
+Goiânia,6,5,6,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Junho,Terça-feira,5
+Uberaba,11,0,5,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,0,Junho,Quinta-Feira,5
+Goiânia,75,37,48,Jun-Ago,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,6,Julho,Sábado,5
+Santo André,240,76,115,Jun-Ago,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,3,Julho,Segunda-feira,5
+Rio Verde,20,12,7,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Agosto,Quarta-feira,5
+Belém,62,40,25,Jun-Ago,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Agosto,Domingo,5
+FloriAnápolis,88,19,58,Set-Nov,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Setembro,Quarta-feira,5
+Goiânia,6,3,5,Set-Nov,Amigos,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,0,Setembro,Terça-feira,5
+Belo Horizonte,18,9,8,Set-Nov,Negócios,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Outubro,Segunda-feira,3
+Anápolis,159,43,78,Set-Nov,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,4,Outubro,Quarta-feira,5
+Caxias do Sul,47,23,20,Set-Nov,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Novembro,Quinta-Feira,4
+Maceió,86,12,46,Set-Nov,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,5,Novembro,Domingo,4
+Goiânia,42,9,13,Dez-Fev,Casais,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,1,Dezembro,Terça-feira,5
+Curitiba,64,33,23,Dez-Fev,Família,SIM,SIM,NÃO,NÃO,SIM,SIM,Golden Dolphin Supreme,3.5,23,7,Dezembro,Quinta-Feira,4
 Goiânia,167,71,119,Dez-Fev,Casais,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Janeiro,Sábado,5
 Goiânia,25,5,12,Dez-Fev,Amigos,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,8,Janeiro,Quinta-Feira,5
 Brasília,12,12,6,Dez-Fev,Negócios,SIM,SIM,SIM,SIM,SIM,SIM, Hotel CTC,3,23,4,Fevereiro,Sexta-Feira,3
@@ -383,30 +383,30 @@ Maringá,14,5,15,Set-Nov,Negócios,SIM,SIM,NÃO,NÃO,NÃO,SIM, Hotel Parque Das 
 Goiânia,13,7,1,Set-Nov,Negócios,SIM,SIM,NÃO,NÃO,NÃO,SIM, Hotel Parque Das Primaveras,3,19,4,Novembro,Domingo,5
 Goiânia,20,9,25,Dez-Fev,Casais,SIM,SIM,NÃO,NÃO,NÃO,SIM, Hotel Parque Das Primaveras,3,19,8,Dezembro,Terça-feira,4
 Anápolis,3,3,3,Dez-Fev,Família,SIM,SIM,NÃO,NÃO,NÃO,SIM, Hotel Parque Das Primaveras,3,19,2,Dezembro,Quarta-feira,5
-Goiânia,17,3,12,Dez-Fev,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,2,Janeiro,Segunda-feira,4
-Uberaba,21,11,13,Dez-Fev,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Janeiro,Domingo,5
-Goiânia,60,11,33,Dez-Fev,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,3,Fevereiro,Quinta-Feira,5
-Uberlândia,12,4,15,Dez-Fev,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,11,Fevereiro,Segunda-feira,5
-Goiânia,27,12,51,Mar-Mai,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Março,Terça-feira,5
-Goiânia,34,12,35,Mar-Mai,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,3,Março,Terça-feira,4
-Uberlândia,69,22,38,Mar-Mai,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,6,Abril,Quinta-Feira,5
-Goiânia,16,4,7,Mar-Mai,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Abril,Sábado,5
-Uberaba,26,5,5,Mar-Mai,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,1,Maio,Quinta-Feira,4
-Goiânia,54,10,15,Mar-Mai,Negócios,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,5,Maio,Terça-feira,4
-Brasília,35,17,27,Jun-Ago,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,6,Junho,Terça-feira,5
-São Paulo,23,12,7,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,7,Junho,Sábado,5
-Brasília,6,3,14,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,3,Julho,Domingo,5
-Goiânia,27,8,16,Jun-Ago,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Julho,Quinta-Feira,4
-Goiânia,41,8,14,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Agosto,Quarta-feira,3
-Uberlândia,12,4,6,Jun-Ago,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,2,Agosto,Segunda-feira,5
-Goiânia,14,3,14,Set-Nov,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,6,Setembro,Terça-feira,5
-Goiânia,415,162,265,Set-Nov,Negócios,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,8,Setembro,Domingo,4
-Ribeirão Preto,76,27,32,Set-Nov,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,6,Outubro,Quinta-Feira,3
-Brasília,24,12,30,Set-Nov,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Outubro,Segunda-feira,4
-Joinville,23,9,23,Set-Nov,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,4,Novembro,Segunda-feira,3
-Goiânia,182,24,47,Set-Nov,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,2,Novembro,Domingo,4
-Goiânia,289,28,133,Dez-Fev,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,5,Dezembro,Terça-feira,4
-Uberlândia,101,35,46,Dez-Fev,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3,23,5,Dezembro,Sábado,5
+Goiânia,17,3,12,Dez-Fev,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,2,Janeiro,Segunda-feira,4
+Uberaba,21,11,13,Dez-Fev,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Janeiro,Domingo,5
+Goiânia,60,11,33,Dez-Fev,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,3,Fevereiro,Quinta-Feira,5
+Uberlândia,12,4,15,Dez-Fev,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,11,Fevereiro,Segunda-feira,5
+Goiânia,27,12,51,Mar-Mai,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Março,Terça-feira,5
+Goiânia,34,12,35,Mar-Mai,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,3,Março,Terça-feira,4
+Uberlândia,69,22,38,Mar-Mai,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,6,Abril,Quinta-Feira,5
+Goiânia,16,4,7,Mar-Mai,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Abril,Sábado,5
+Uberaba,26,5,5,Mar-Mai,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,1,Maio,Quinta-Feira,4
+Goiânia,54,10,15,Mar-Mai,Negócios,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,5,Maio,Terça-feira,4
+Brasília,35,17,27,Jun-Ago,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,6,Junho,Terça-feira,5
+São Paulo,23,12,7,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,7,Junho,Sábado,5
+Brasília,6,3,14,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,3,Julho,Domingo,5
+Goiânia,27,8,16,Jun-Ago,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Julho,Quinta-Feira,4
+Goiânia,41,8,14,Jun-Ago,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Agosto,Quarta-feira,3
+Uberlândia,12,4,6,Jun-Ago,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,2,Agosto,Segunda-feira,5
+Goiânia,14,3,14,Set-Nov,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,6,Setembro,Terça-feira,5
+Goiânia,415,162,265,Set-Nov,Negócios,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,8,Setembro,Domingo,4
+Ribeirão Preto,76,27,32,Set-Nov,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,6,Outubro,Quinta-Feira,3
+Brasília,24,12,30,Set-Nov,Casais,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Outubro,Segunda-feira,4
+Joinville,23,9,23,Set-Nov,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,4,Novembro,Segunda-feira,3
+Goiânia,182,24,47,Set-Nov,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,2,Novembro,Domingo,4
+Goiânia,289,28,133,Dez-Fev,Família,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,5,Dezembro,Terça-feira,4
+Uberlândia,101,35,46,Dez-Fev,Amigos,SIM,SIM,SIM,NÃO,NÃO,SIM,Hotel Hot Star,3.5,23,5,Dezembro,Sábado,5
 Ribeirão Preto,31,11,20,Dez-Fev,Negócios,SIM,SIM,NÃO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,2,Janeiro,Sexta-Feira,4
 Goiânia,20,6,9,Dez-Fev,Sozinho,SIM,SIM,NÃO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,0,Janeiro,Quarta-feira,5
 Goiânia,60,16,15,Dez-Fev,Família,SIM,SIM,NÃO,SIM,SIM,SIM,Rio das Pedras Thermas Hotel,5,41,5,Fevereiro,Sábado,4
