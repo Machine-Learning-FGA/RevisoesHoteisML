@@ -140,7 +140,8 @@ class Parser:
         """
         periods = columns[self.PERIOD_COLUMN].split('-')
         columns[self.PERIOD_COLUMN] = self._transform_table_(self._short_month, periods[0].lower())
-        columns.insert(self.PERIOD_COLUMN, self._transform_table_(self._short_month, periods[1].lower()))
+        columns.insert(self.PERIOD_COLUMN, self._transform_table_(
+            self._short_month, periods[1].lower()))
         return columns
 
     def _switch_categories_(self, columns):
@@ -168,16 +169,17 @@ class Parser:
 
     def _transform_in_int_(self, columns):
         for i, field in enumerate(columns):
-            if isinstance(field, str) and field.isdigit():
+            if isinstance(field, str) and field.replace('-', '').isdigit():
                 columns[i] = int(field)
         columns = list(filter(lambda x: not isinstance(x, str), columns))
         return columns
 
 
-
 if __name__ == '__main__':
-    print(Parser('AM_RevisoesHoteisCaldas.csv').get_data()[0][0])
-
+    data = Parser('AM_RevisoesHoteisCaldas.csv').get_data()
+    for x in data[0]:
+        print(len(x) == 60)
+    print(data[0][75])
 # with open('AM_RevisoesHoteisCaldas.csv', 'r') as f:
 #     reader = f.readline()
 #     campos_tabela = reader.split(',')

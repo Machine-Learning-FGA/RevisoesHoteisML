@@ -3,14 +3,14 @@ from parser import Parser
 
 P = Parser('AM_RevisoesHoteisCaldas.csv')
 
-X,Y = P.get_data()
-x = X[:100]
-y = Y[:100]
+X, Y = P.get_data()
+x = X[:502]
+y = Y[:502]
 
 clf = tree.DecisionTreeClassifier()
 
-clf = clf.fit(X, Y)
+clf = clf.fit(x, y)
 
-result = clf.predict([X[102]])
+result = clf.predict([X[503]])
 
-print (result, Y[102])
+print (result, Y[503])
