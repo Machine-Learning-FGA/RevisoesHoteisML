@@ -33,7 +33,6 @@ class Parser:
 
     def __init__(self, path, separator=';'):
 
-
         self._init_binarizer_()
         if os.path.exists(path):
             self.path = path
@@ -179,20 +178,6 @@ class Parser:
 
 
 class SimpleParser(Parser):
-    
-    def _switch_categories_(self, columns):
-        """Switch the categories from CATEGORIES constant to a Binary array
-        in format [ 0, 0, 0, 0, 0 ]
-        """
-        idx = -1
-        for category in self.CATEGORIES:
-            if category in columns:
-                idx = columns.index(category)
-                break
-
-        columns[idx] = self.CATEGORIES.index(columns[idx])
-
-        return columns
 
     def _split_period_(self, columns):
         """Tranform a columns in format ShortMonth - ShortMonth into
@@ -207,19 +192,20 @@ class SimpleParser(Parser):
         month = columns[self.MONTH_COLUMN].lower()
         columns[self.MONTH_COLUMN] = self.MONTHS.index(month)
         return columns
-    
+
     def _convert_weekday_(self, columns):
         weekday = columns[self.WEEKDAY_COLUMN].lower()
         columns[self.WEEKDAY_COLUMN] = self.WEEKDAY.index(weekday)
         return columns
 
     def _init_binarizer_(self):
-        pass
+        self._multi_label = MultiLabelBinarizer()
+
+        self._multi_label.fit(self._get_categories_(self.CATEGORIES))
 
 
-      
 if __name__ == '__main__':
-    data = Parser('AM_RevisoesHoteisCaldas.csv').get_data()
+    data = SimpleParser('AM_RevisoesHoteisCaldas.csv').get_data()
     for x in data[0]:
         print(len(x) == 60)
     print(data[0][75])
