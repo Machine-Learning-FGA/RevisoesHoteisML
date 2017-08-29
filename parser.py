@@ -211,11 +211,31 @@ class SimpleParser(Parser):
         self._multi_label.fit(self._get_categories_(self.CATEGORIES))
 
 
+class ParserLine(SimpleParser):
+
+    def __init__(self, line, separator=';'):
+
+        self._init_binarizer_()
+        self.separator = separator
+        self.line = self._separate_coluns_(line)
+        self._number_columns = len(self.line)
+
+    def get_data(self):
+        """Mount a big array with all data readed from file
+        and do some processament in each line"""
+
+        columns = self.line
+        data_array, data_label = self._process_data_(columns)
+        flatten_data = _flatten(data_array)
+        flatten_data.append(data_label)
+        data = [flatten_data]
+
+        return data
+
+
 if __name__ == '__main__':
-    data = SimpleParser('AM_RevisoesHoteisCaldas.csv').get_data()
-    for x in data[0]:
-        print(len(x) == 60)
-    print(data[0][75])
+    data = ParserLine('Goiânia;11;4;13;Dez-Fev;Amigos;NÃO;SIM;NÃO;NÃO;SIM;SIM;Hotel Morada das Águas;3;38;9;Janeiro;Quinta-Feira').get_data()
+    print(data)
 
 # with open('AM_RevisoesHoteisCaldas.csv', 'r') as f:
 #     reader = f.readline()
