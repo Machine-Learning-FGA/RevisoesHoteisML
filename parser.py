@@ -77,11 +77,15 @@ class Parser:
         lines = self._read_lines_()
         next(lines)
         for line in lines:
-            columns = self._separate_coluns_(line)
-            data_array, data_label = self._process_data_(columns)
-            flatten_data = _flatten(data_array)
-            data.append(flatten_data)
-            label.append(data_label)
+            try:
+                columns = self._separate_coluns_(line)
+                data_array, data_label = self._process_data_(columns)
+                flatten_data = _flatten(data_array)
+                data.append(flatten_data)
+                label.append(data_label)
+            except ValueError as e:
+                import sys
+                print(e, file=sys.stderr)
 
         return data, label
 
@@ -103,6 +107,9 @@ class Parser:
             # raise Exception()
         label = columns.pop()
 
+        for field in columns:
+            if isinstance(field, int) and field < 0:
+               raise ValueError('Negative number in {}'.format(columns)) 
         return columns, label
 
     def _convert_yesno_(self, columns):
